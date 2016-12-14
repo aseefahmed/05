@@ -1,0 +1,2 @@
+[09-Nov-2016 06:37:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'cs_activate_widget' not found or invalid function name in /home/aseefahm/public_html/blog/wp-includes/plugin.php on line 524
+[09-Nov-2016 08:14:46 UTC] PHP Fatal error:  Call to undefined function submit_button() in /home/aseefahm/public_html/blog/wp-admin/includes/file.php on line 1263

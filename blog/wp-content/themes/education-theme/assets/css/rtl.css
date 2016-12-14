@@ -1,0 +1,589 @@
+/*============  RTL START ============ */
+body, .widget {direction: rtl;}
+.flexslider, .owl-carousel, .page-sidebar {direction: ltr;}
+
+/*============  FLOAT SECTION STYLE ============ */
+/* BLOG SECTION */.blog-medium figure, .post-option li, .blog-small .blog-right, .cs-blog .bloginfo a.custom-btn, .courses a.custom-btn, .custom-btn.fancy-custombutton, .cs-blog .bloginfo a.custom-btn:before, .has_bullet_br.blog-medium .blog-left li i, .blog-medium .blog-left li i, .blog-icon, .cs-thumb, .post-option-panel .post-options, blockquote:before, .content_tag i, .cs-share-post-section span, .cs-share-post-section a, .about-author figure, .about-author figure img, .by-user, #comment ul li figure, #comment ul li figure img, #respond form p,
+/* WIDGET SECTION */.widget_categories ul li a, .widget_archive ul li a, .widget_categories ul li a:before, .widget_archive ul li a:before, .widget_nav_menu ul li a:before, .widget_pages ul li a:before, .widget_meta ul li a:before, .widget-twitter .follow-on, .widget-twitter .follow-on img, .widget-recent-blog figure, .widget-recent-blog ul li time, .widget-recent-blog ul li span a, 
+.widget-recent-blog ul li span, .tagcloud a, .widget_text ul li i, .widget_text ul li span, .eventsCalendar-list li time, .widget_recent_comments ul li a, .widget_userlist figure,
+/* FOOTER SECTION */.social-media span, .news-title, .footer-mid-sec .social-media, .user-signup label, #copyright p,
+/* HEADER SECTION */.logo,.top-nav, .language-sec, .cs-search.cs-searchv2 input[type="text"], .dropdown-menu > li > a, .navigation ul li, .header_2 .navigation, .header_1 .navigation,
+/* BREADCRUMB SECTION */.breadcrumb ul li,
+/* EVENT SECTION */.event-list ul li, .ev-location, .event-list figure, .cs-ev-default .cstime, .cs-ev-plain .ev-left, .cs-ev-elite .cstime, .cs-ev-elite .ev-btn, .cs-ev-timeline .cstime, .cs-ev-timeline .ev-left, .course-detail span, .course-detail h2, .content_tag h6, .cs-ev-modren figure, .cs-ev-timeline figure,
+/* COURSES SECTION */.cs-big-view figure, .left_position, .listoption li, .cr-listing, .cr-listing li, .cs-list.list_v3 figure, .cs-list.list_v3 .cs-cat-list, .cs-list.list_v4 .cs-cat-list, .left_position .listoption, .cs-cat-list, .cs-lessons, .cs-cat-list li, article.cs-minimal-view h5:before, .cs-list.list_v4 figure, .cs-list.list_v4 .text-section .seideleft, .cs-list-view figure, .cs-list .cs-top-sec, .widget_instrector figure, .widget_instrector ul li figure, 
+.cs-rating, .widget_instrector .cs-rating-desc, .cs_assigment_tabs ul li, .course-breif:before, .widget_instrector .left-sp h5, .cs-member ul li figure, .cs-member ul li .left-sp, .cs-curriculum ul li i, .cs-list-view .cs-top-sec,
+/* SHORTCODE SECTION */.dropcap-two:first-letter, .dropcap-one span, .dropcap-one span:before, .liststyle ul li i, .messagebox-v2 i, .messagebox-v2 span, .messagebox.icon_position_left i, .cs_counter.has_pattern figure i, article.cs-services.left figure i, article.cs-services figure img, 
+/* DEFOULT PAGES */.cs-content404 aside, .search-no-results .cs-icon, .search-no-results .cs-search-area form, .cs-team .size_medium figure,
+/* Navigation */.navigation, .liststyle ul li span, .cs-testimonial p:before, .cs-testimonial figure, .cs-author, .cs-content404 aside, .cs-flat-view .text-section, .widget-recent-blog .infotext a, .cs-tabs.nav_position_left .nav-tabs, .user-signup label,
+/* Cs course categoreies */.cs_course_categories ul li a, .cs_course_categories ul li i, .cs-blog.blog-clean figure, .st-userinfo .text p a, 
+/* Register CS Signup */.cs-signup form p input[type="checkbox"], .upload-file input[type="submit"], .upload-file input.user-submit, .cs-signup .social-media a i, .cs-signup form p input[type="button"], .cs-signup .widget_newsletter form p input[type="submit"], .cs-rating-desc, .left_position, .listoption li, .cs-cat-list li i.fa, .navbar-header .navbar-toggle, .navbar-header, #main-header .social-media, .cs-course-search ul li, .blog-lrg .blog-right, .blog-left li,
+.upload-file li label, .cs-ev-listing .cstime, .cs-tabs .nav-tabs li, .rtl .strip-info, .rtl .cs-login-sec ul li, .rtl .portfoliopage ul.image-grid li, .rtl .cs-filter-menu li, .rtl blockquote .cs-user-name {float: right!important;}
+.pull-left, .rtl .cs_counter.left figure img {float: right !important;}
+
+/* BLOG SECTION */.blog-small.blog-medium .blog-left, .post-option-panel .cs-views-area,
+/* FOOTER SECTION */.footer-nav,
+/* HEADER SECTION */.head-right, .cs-login-sec, .cs-right-sec,
+/* BREADCRUMB SECTION */
+/* EVENT SECTION */.ev-btn,
+/* COURSES SECTION */.cs-list.list_v3 .custom-btn, .cs-list.list_v4 .custom-btn, .cs-flat-view .cr-flat, .cs-list.list_v1.has_border .cs-cat-list ul li:last-child, .cs-list-view .cs-cat-list, .cs-member ul li span,
+/* Cs Contact info */.widget_slider .flexslider, article.cs-modren-view figure, .cs-widget-info ul li, .login_nav, .cs-header-add, .cs-blog.blog-medium.lg-thumb .blog-bottom, .blog-lrg .blog-left, .cr-flat figure, .cs-flat-view .left_position .listoption, .cs-flat-view .left_position, .cs-modren-view .left_position, .cs-flat-view .cs-cat-list,
+.upload-file input[type="submit"], .cs-modren-view .cs-cat-list, .cs-modren-view .cs-cat-list li {
+	float: left !important;
+}
+.pull-right, .rtl .upload-file li .pbwp-checkbox,.breadcrumbs  {
+	float: left !important;
+}
+/*============  TEXT ALIGNMENT STYLE ============ */
+/* WIDGET SECTION */.widget_categories ul li, .widget_archive ul li, .widget_recent_comments ul li, .skills-v2 .skillbar .skillbar-bar, .tab-content > .active, .cs-flat-view .text-section, 
+.cs_course_categories ul li .cat-inner, .widget_slider .flexslider, article.cs-modren-view figure ~ .text-section, .cs-flat-view .left_position h2, .upload-file li .inner-sec, .cs-modren-view .left_position{
+	text-align: left!important;
+}
+
+/*============  TEXT ALIGNMENT STYLE ============ */
+/* BREADCRUMB SECTION */.page-title-align-left, /* EVENT-DETAIL SECTION */.event-info ul,/* SHORTCODE SECTION */.cs_counter.has_pattern, .pr-classic ul li, .page-not-found,
+.pr-clean ul li, .page-not-found, .sub-menu .dropdown-menu li, .navigation ul li, .blog-clean figure ~ .bloginfo, .blog-medium figure ~ .bloginfo, .left_position, .listoption li, .list_v1 .text-section, .blog-grid .bloginfo, .breadcrumb, .cs-ev-listing .cstime, .cs-tabs .tab-content p, .cs-tabs .tab-content ul li {
+	text-align: right!important;
+}
+.main-section .cs-services.center.classic.img-small figure i ~ figcaption{padding: 0px;}
+#main-header .sub-menu .dropdown-menu li a{line-height: 32px !important;}
+#main-header .sub-menu .dropdown-menu li a i{margin: 0 0 0 8px;}
+#main-header .navigation li a span{margin: -2px 0px 0 7px;}
+.main-section .list_v1 .text-section{min-height: 210px;}
+.main-section .nxt-prv-v2 .owl-nav{left: 15px; right: auto;}
+#main-header .cs-search.cs-searchv2{left: 0px; right: auto;}
+#main-header .cs-search.cs-searchv2 input[type="text"]{padding: 0 15px 0 0;}
+#main-header .navbar-toggle.addclose{left: 0px; right: auto;}
+.fa-stack .fa-circle.fa-stack-3x{right: 8px!important; top: -6px!important;}
+.main-section .cs-flat-view .cs-cat-list li{width: auto;}
+.rtl .section-fullwidth .element-size-25:last-child .cs-price-table.pr-classic {border-radius: 15px 0 0 15px;}
+.rtl .cs-ev-listing .cstime{ border-left: 1px solid #ddd; border-right: none; margin: 0 0 0 18px;}
+/*============  Left STYLE ============ */
+.main-head .cs-signup { left: -10px;  right: auto; }
+.head-right .cs-signup { left: 50%;  right: auto; }
+/*============  Cs service classic STYLE ============ */
+.main-section article.cs-services.classic figure i:after { right: -196px; width: 190px; left: auto; }
+/*============  price table STYLE ============ */
+.main-section .pr-clean ul li i { margin: 0 0 0 10px; }
+.main-section .cs-price small { margin-right: 5px; margin-left: 0px; }
+/*============  Cs Testimonial STYLE ============ */
+.main-section .cs-testimonial figure { margin: 0 0px 0 15px; }
+.main-section .testimonial-modren:before, .testimonial-modren:after { right: 25px; left: auto; border-right: 14px solid transparent; }
+.main-section .testimonial-modren:after { right: 26px; left: auto; }
+.main-section .cs-testimonial p:before{letter-spacing: 2px; margin: 6px -1px 0 0; padding: 0 0 0 6px; line-height: 26px;}
+/*============  Cs Content 404 STYLE ============ */
+.cs-content404 aside ~ .desc { margin: 5px 75px 4px 0; }
+/*============  Cs Rating Desc STYLE ============ */
+.cs-rating-desc { margin: 0 8px 0; }
+/*============  Cs Search v2 STYLE ============ */
+.main-section .cs-search.cs-searchv2 input[type="text"] { padding: 0 15px 0 0; }
+/*============  Cs Services STYLE ============ */
+.main-section article.cs-services.img-small figure img ~ figcaption {padding: 0 65px 0 0; }
+/*============  Lang sel STYLE ============ */
+#lang_sel a.lang_sel_sel:before {float: left; margin: 1px 5px 0 0px; }
+/*============  Cs Tabs STYLE ============ */
+.main-section .cs-tabs.nav_position_left .nav-tabs li { border-left: none; border-right: 1px solid #e2e2e2;}
+.cs-tabs .nav-tabs li a i { margin: 0 0 0 7px; }
+.main-section .cs-tabs .tab-content ul li:before { left: auto; right: 0px; }
+.main-section .cs-tabs .tab-content ul li { padding: 0 20px 0 0px !important; }
+/* Cs course categoreies */
+.cs_course_categories ul li i { margin: 3px 0px 0 10px; }
+.rtl a.at300b .at4-icon, .rtl a.at300m .at4-icon{display: none;}
+/* Event Calender list wrap */
+.eventsCalendar-list-wrap:before { right: 0px; left: auto; }
+/* Twitter widget Slider */
+.widget_slider .flex-direction-nav { left: -75px; right: auto; }
+.widget_slider .follow-on { right: 0px; left: auto; }
+.twitter-section .widget_slider .flexslider { margin: 0 0 0 75px; }
+.widget-twitter .text:before, .widget-twitter .text:after { right: 17px; left: auto; }
+.widget-twitter .text:after { bottom: -12px; right: 18px;  left: auto; }
+.flex-direction-nav .flex-next {left: 0px; right: auto; }
+.widget-twitter .flex-direction-nav .flex-prev { left: 30px; right: auto; }
+.widget-twitter .cs-tweet { margin: 0 55px 0 0; }
+.widget-twitter .text span i { margin: 0 0 0 7px; }
+/* Register CS Signup */
+.register-page .cs-signup:before {left: -30px; right: auto; }
+.register-page .cs-signup:after { left: -15px; right: auto; }
+form p span i, .register-page .upload-file i { right: 16px; left: auto; }
+.register-page .upload-file li input[type="text"] { padding: 0 38px 0 0; }
+#main-header .cs-signup form p input[type="checkbox"] {  margin: 6px 0 11px 10px; }
+.rtl .cs-signup form p input[type="button"]{margin: 0 0 0 17px; padding:0;}
+.register-page .cs-signup .forget-link { left: 30px; right: auto; }
+/* St Userinfo Signup */
+.st-userinfo .text ul li i { margin: 0 0px 0 15px; }
+.st-userinfo .cs_assigment_tabs ul li:after, .st-userinfo .cs_assigment_tabs ul li.active:after { left: 20px; right: auto; }
+.cs_assigment_tabs ul li i { margin: 0 0 0 7px; }
+.main-section article.cs-modren-view figure ~ .text-section { margin:0 0 0 290px;}
+.main-section .cs-course-search .select-style-one::after{left: 0px; right: auto; border-right: 1px solid #a7a7a7; border-right: 1px solid #a7a7a7;}
+
+/*============  TRANSFORM STYLE ============ */
+.widget-twitter .flex-direction-nav a,.breadcrumb ul li:before {
+	-webkit-transform: scale(-1);
+	   -moz-transform: scale(-1);
+	    -ms-transform: scale(-1);
+	     -o-transform: scale(-1);
+	        transform: scale(-1);
+}
+.fa-search, .cs-search.cs-searchv2 form label:before, article.cs-minimal-view h5:before, .dropcap-one span:before, .main-section .messagebox-v2.close_btn_style .close:before, .main-section .messagebox-v2.close_btn_style .close:after {
+	-webkit-transform: scaleX(-1);
+	   -moz-transform: scaleX(-1);
+	    -ms-transform: scaleX(-1);
+	     -o-transform: scaleX(-1);
+	        transform: scaleX(-1);
+}
+.comment-reply-link i, .flex-direction-nav a, .st-userinfo .cs_assigment_tabs ul li:after, .st-userinfo .cs_assigment_tabs ul li.active:after {
+	-webkit-transform: scaleY(-1) scale(-1);
+	   -moz-transform: scaleY(-1) scale(-1);
+	    -ms-transform: scaleY(-1) scale(-1);
+	     -o-transform: scaleY(-1) scale(-1);
+	        transform: scaleY(-1) scale(-1);
+
+}
+.flex-direction-nav a{
+	-webkit-transform: scaleY(-1);
+	   -moz-transform: scaleY(-1);
+	    -ms-transform: scaleY(-1);
+	     -o-transform: scaleY(-1);
+	        transform: scaleY(-1);
+}
+/*============  BLOG STYLE ============ */
+.main-section .blog-medium figure ~ .bloginfo { padding: 0px 290px 0px 0px; }
+.main-section .cs-blog .bloginfo a.custom-btn:before { margin: 0.07em 0 0 0.56em; }
+.main-section .blog-left li a i { margin: 0 5px 0 5px; }
+.main-section .blog-left li { margin-right: 25px; margin-left: 0px; }
+.main-section .blog-medium .blog-left li { margin-right: 15px; margin-left: 0px; }
+.rtl .main-section .cs-blog.blog-lrg .bloginfo { padding: 0 55px 0 0px; }
+.main-section .cs-blog.has_bullet_br:before { right: 0px; left: auto; }
+.main-section .cs-blog.has_bullet_br:after { right: 2px; left: auto; }
+.main-section .cs-blog.has_bullet_br { padding: 0 30px 0 0px; }
+.main-section .cs-blog .bullet-crl { right: -16px; left: auto; }
+.main-section .cs-blog .bullet-crl:before { left: auto; right: 25px; }
+.main-section .cs-thumb { margin-right: 0px; margin-left: 20px; }
+.main-section blockquote:before { margin-right: 0px; margin-left: 17px; }
+.main-section .content_tag i { margin: 8px 0 0 13px; }
+.main-section .blog-editor .rich_editor_text, .blog-editor .content_tag, .blog-editor .cs-share-post-section { padding: 0 5.7em 0 0em; }
+.main-section .cs-share-post-section a { margin: 0 0 0 10px; }
+.main-section .cs-post-sharebtn .cs-cell { padding-left: 22px; padding-right: 0px; }
+.main-section .cs-post-sharebtn .cs-cell.right-btn { padding: 0 22px 0 0px; }
+.main-section .about-author figure ~ .text { padding-left: 0px; padding-right: 70px; }
+.main-section .by-user { margin: 0 0 0 22px; }
+.main-section #comment .text-box { margin: 16px 95px 0 0; }
+.main-section #comment .text-box p:before { right: 24px; left: auto; }
+.main-section #comment ul .children { padding-right: 100px; padding-left: 0px; }
+.main-section .blog_thumb figure figcaption { right: 10px; left: auto; }
+.main-section .blog-clean figure ~ .bloginfo { padding: 0 200px 0 0; }
+.main-section .cs-team .post-option li.has-border:before { right: 0px; left: auto; }
+.main-section .cs-team .post-option li.has-border { padding: 0 13px 0 0; }
+.main-section .grid_team_view.cs-team .post-option li.has-border {padding:0;}
+.main-section .has_bullet_br .blog-left li:first-child {border-right: 1px solid #f2f2f2;}
+.main-section .has_bullet_br .blog-left li:last-child {border-right: none;}
+.main-section .cs-tabs.nav_position_left .nav-tabs li.active::before{right: auto; left: -23px;}
+.main-section .accordion-v2 .panel-title a.collapsed::after{top: 7px;}
+.main-section .accordion-v2 .panel-title a::after{top: 1px;}
+
+/*============  EVENT STYLE ============ */
+.main-section .cs-filter-menu li i.fa, .cs-btnshowall i.fa { margin-right: 0px; margin-left: 6px; }
+.main-section .cs-filter-menu li a { padding: 7px 9px 7px 36px; }
+.main-section .cs-filter-menu li a:before { border-right: 1px solid #efefef; border-left: none; left: 0; right: auto; }
+.main-section ul.ev-option li { margin-left: 8px; margin-right: 0px; }
+.main-section .cs-ev-listing .ev-text { padding: 30px 30px 20px 25px; }
+.main-section .ev-location { width: 75%; }
+.main-section .ev-location li i { margin-right: 0px; margin-left: 6px; }
+.rtl .main-section .event-list .ev-text { padding: 15px 30px 0 15px;}
+.main-section .cstime ~ .ev-left { padding: 0 52px 0 0px; }
+.main-section .cs-ev-default .cstime { border-left: 1px solid #acacac; border-right: none; padding: 0 0px 0 12px; }
+.main-section .cs-ev-plain figure .cstime { left: auto; right: 0px; }
+.main-section .event-list.cs-ev-plain figure > a { padding-right: 60px; padding-left: 0px; }
+.main-section .cs-ev-elite .cstime ~ .ev-left { padding: 0 18px 0 0; }
+.main-section .cs-ev-grid .ev-text { padding: 32px 30px 30px; }
+.main-section .cs-ev-modren:before { left: auto; right: 0px; }
+.main-section .cs-ev-timeline .ev-box { padding: 10px 10px 10px 25px; }
+.main-section .cs-ev-timeline { padding-left: 0px; padding-right: 50px; }
+.main-section .bullet-crl { right: -13px; left: auto; }
+.main-section .cs-ev-timeline:after { right: 2px; left: auto; }
+.main-section .cs-ev-timeline:before { right: 4px; left: auto; }
+.main-section .cs-ev-timeline .fa.fa-circle.fa-stack-3x { top: -8px !important; right: 8px !important; }
+.main-section .ev-inner:before { left: auto; right: 12px; }
+.main-section .event-info h6 { left: auto; right: 0px; }
+.main-section .event-info ul li i { margin-right: 0px; margin-left: 7px; }
+.main-section .content_tag h6 { margin: 6px 0 0 10px; }
+.main-section .cs-post-sharebtn .cs-cell.right-btn { border-right: 2px solid #f7f7f7; border-left: none; }
+
+/*============  WIDGET STYLE ============ */
+.main-section .widget_categories ul li a:before, .main-section .widget_archive ul li a:before, .main-section .widget_nav_menu ul li a:before, .main-section .widget_pages ul li a:before, .main-section .widget_meta ul li a:before { margin: 2px 0px 0 5px; }
+.widget-twitter .text span i { margin-right: 0px; margin-left: 7px; }
+.widget-twitter .cs-tweet { margin-right: 45px; margin-left: 0px; }
+.widget-twitter .flex-direction-nav .flex-prev { left: 30px; right: auto; }
+.flex-direction-nav .flex-next { left: auto; right: 0px; }
+.widget-twitter .flex-direction-nav .flex-next { left: 0px; right: auto; }
+.widget-recent-blog ul li time { margin-right: 0px; margin-left: 7px; }
+.widget-recent-blog .recent-inn:before { left: auto; right: 0px; }
+.tagcloud a { margin: 0 0px 4px 4px; }
+#footer-sec .widget_text ul li i { margin: 0 0px 0 7px; }
+.widget_userlist figure ~ .cs-widget-info { padding: 0 75px 0 0; }
+.main-section .post-option li{margin: 0 0 8px 10px;}
+
+/*============  FOOTER STYLE ============ */
+.footer-mid-sec .social-media span, .footer-mid-sec .news-title { padding: 4px 0px 0 25px; }
+.footer-mid-sec .user-signup input[type="text"] { padding: 0 38px 0 0; margin-right: 8px; margin-left: 0px; }
+.footer-mid-sec .user-signup label:before { right: 14px; left: auto; }
+.footer-mid-sec .news-title { padding: 21px 0px 0 30px; }
+.footer-mid-sec .user-signup label:before { right: 14px; left: auto; }
+.footer-mid-sec .user-signup input[type="text"] { padding: 0 38px 0 0; }
+#copyright p img{margin: 0 0 0 10px;}
+
+/*============  HEADER STYLE ============ */
+#main-header .top-nav, #main-header .strip-listing a i { margin: 0px 0px 0px 5px; }
+#main-header .strip-listing { margin-left: 0px; margin-right: 15px; }
+#main-header .cs-search.cs-searchv2 { right: auto; left: 0px; }
+#main-header .cs-search.cs-searchv2 form label:before { left: 12px; right: auto; }
+#main-header .cs-search label { left: 10px; right: auto; }
+#main-header .cs-search.cs-searchv2 form input[type="submit"] { border-left: none; border-right: 1px dotted #d0d0d0; }
+#main-header .cs-login-sec:hover .has-login, li.parentIcon > a:after { left: 0; right: auto; }
+#main-header ul ul li.parentIcon > a:after { right: 6px; top: 22%; }
+#main-header li.parentIcon > a:after { margin: -11px 0 0; }
+#main-header .sub-menu .dropdown-menu .dropdown-menu { left: auto; right:102%; }
+#main-header .dropdown-menu { left: auto; right: 0px; }
+#main-header .sub-menu .dropdown-menu li a i { margin: 0 0px 0 8px; }
+#main-header .navigation li a span { margin: -2px 0px 0 7px; }
+#main-header .top-strip i{margin: 0 0 0 7px;}
+.navigation ul li a[title]:after {margin-right:1em; margin-left:0;}
+
+/*============  BREADCRUMB STYLE ============ */
+.breadcrumb ul li { margin: 0 20px 0 0; }
+.breadcrumb ul li:first-child:after { right: -18px; left: auto; }
+.breadcrumb ul li:before { right: -12px; left: auto; top: 1px; }
+.twitter-section .widget_slider .follow-on{left: auto; right: -11%;}
+
+/*============  COURSES STYLE ============ */
+.rtl .main-section .cs-big-view figure ~ .text-section { padding: 22px 400px 0 0; }
+.rtl .main-section .left_position, .main-section .listoption li { margin-right: 0px; margin-left: 15px; }
+.rtl .main-section .listoption li i.fa { margin-right: 0px; margin-left: 5px; }
+.rtl .main-section .custom-btn i { margin-right: 0px; margin-left: 8px;}
+.rtl .main-section .circle.has_icon i {border-radius: 0 20px 20px 0;}
+.rtl .main-section .cs-add-wishlist { left: auto; right: 10px; }
+.rtl .main-section .cs-list.list_v3 figure ~ .text-section { margin-right: 300px; margin-left: 0px; }
+.rtl .main-section .courses.cs-list.list_v3 a.custom-btn:before { right: -15px; left: auto; }
+.rtl .main-section .cs-cat-list li i.fa { margin-right: 0px; margin-left: 5px; }
+.rtl .main-section .cs-flat-view .cs-cat-list { margin: 0 0px 0 10px; }
+.rtl .main-section article.cs-minimal-view h5:before { margin: 0 0px 0 10px; }
+.rtl .main-section article.cs-modren-view .cs-cat-list { margin: 0 0 2px 10px; }
+.rtl .main-section .cs-list.list_v4 figure ~ .text-section { padding-left: 0px; padding-right: 30px; }
+.rtl .main-section .cs-list.list_v4 { padding-left: 0px; padding-right: 35px; }
+.rtl .main-section .cs-list.list_v4:before { right: 3px; left: auto; }
+.rtl .main-section .cs-list.list_v4:after { right: 5px; left: auto; }
+.rtl .main-section .cs-list.list_v4 .cs-list-wrapp:before { right: 0px; left: auto; }
+.rtl .main-section .cs-list.list_v4 .cs-list-wrapp:after { right: -2px; left: auto; }
+.rtl .main-section .cs-list-view figure ~ .text-section { padding-right: 220px; padding-left: 0px; }
+.rtl .main-section .widget_instrector figure ~ .left-sp { padding: 0 75px 0 0px; }
+.rtl .main-section .social-media a { margin-right: 0px; margin-left: 12px; }
+.rtl .main-section .social-media { margin: 0 0px 0 4px; }
+.rtl .main-section .widget_instrector ul li figure { margin: 0 0px 0 15px; }
+.rtl .main-section .widget_instrector .cs-rating-desc { margin: 0 5px 5px 0; }
+.rtl .main-section .cs_assigment_tabs ul li i { margin-right: 0px; margin-left: 5px; }
+.rtl .main-section .course-breif:before { margin: 5px 0 0 10px; }
+.main-section .widget_instrector.course-detail-reviews-listing .left-sp h5 { margin-right: 0px; margin-left: 10px; }
+.main-section .panel-title > a i { margin-right: 0px; margin-left: 10px; }
+.main-section .accordion-v4 .panel-title a:after { right: auto; left: 0px; }
+.main-section .panel-title > a { padding-right: 0px; padding-left: 30px; }
+.main-section .cs-member ul li figure ~ .left-sp { padding-right: 20px; padding-left: 0px; }
+.main-section .cs-curriculum ul li i { margin: 6px 0 0 15px; }
+
+/*============  BUTTON SHORTCODE STYLE ============ */
+.main-section .has_icon i { left: auto; right: 0px; }
+.main-section .cs-list list_v1 .custom-btn i { margin-left: 8px; margin-right: 0; position: absolute; right: 31%; }
+.main-section .has_icon { padding-left: 26px; padding-right: 50px; }
+.main-section .button_style { margin: 0 0px 6px 6px; }
+
+/*============  SHORTCODE STYLE ============ */
+.rtl .main-section .dropcap-two:first-letter { margin: 0 0 4px 20px; }
+.rtl .main-section .dropcap-one span { margin: 6px 0 0 20px; }
+.rtl .main-section .dropcap-one span:before { left: 0px; right: auto; }
+.rtl .main-section .liststyle ul li i { margin: 5px 0 0 12px; }
+.rtl .main-section .messagebox-v2 .close_btn_style .close { left: 22px; right: auto; }
+.rtl .main-section .messagebox-v2 i { margin: 0px 0px 0px 10px; }
+.rtl .main-section .messagebox-v2 span a { margin: 0px 10px 0px 0px; }
+.rtl .main-section .messagebox-v2 { padding: 16px 15px 15px 80px; }
+.rtl .main-section .messagebox-v2.close_btn_style .close:before { right: -13px; left: auto; }
+.rtl .main-section .messagebox-v2.close_btn_style .close:after { right: -14px; left: auto; }
+.rtl .main-section .messagebox-v2.close_btn_style .close{left: 22px; right: auto;}
+.rtl .main-section .messagebox-v1 button.close { left: 14px; right: auto; }
+.rtl .main-section .messagebox.icon_position_left i { margin: -4px 0 0 20px; }
+.rtl .main-section .messagebox-v1 { padding-left: 150px; padding-right: 10px; }
+.rtl .main-section .messagebox-v1 .custom-btn { left: 25px; right: auto; }
+.rtl .main-section .messagebox.has_bgicon:before { right: 0px; left: auto; }
+.rtl .main-section .form-style p span.input-icon i { right: 17px; left: auto; }
+.rtl .main-section #select-v2, input.cs-plan { padding-right: 35px !important; padding-left: 0px; }
+.rtl .main-section .cs-tabs .tab-content ul li { padding-left: 0px; padding-right: 20px; }
+.rtl .main-section .accordion-v2 .panel-title a:after, .rtl .main-section .accordion-v2 .panel-title a.collapsed:after { left: 10px; right: auto; }
+.rtl .main-section .accordion-v1 .panel-heading a:after, .rtl .main-section .accordion-v3 .panel-default > .panel-heading a:after, .rtl .main-section .accordion-v3 .panel-title a.collapsed:after { left: 0px; right: auto; }
+.rtl .cs_counter.has_pattern figure i ~ figcaption { padding-left: 0px; padding-right: 60px; }
+.rtl .main-section article.cs-services.img-medum figure i ~ figcaption { padding: 0 140px 0 0px; }
+.rtl .main-section article.cs-services.img-small figure i ~ figcaption { padding: 0 85px 0 0px !important; }
+.rtl .main-section article.cs-services.img-medum figure img ~ figcaption { padding: 0 140px 0 0px; }
+.rtl .main-section article.cs-services.center.img-small figure i ~ figcaption, 
+.rtl .main-section article.cs-services.top figure i ~ figcaption{padding: 0px!important;}
+.rtl .main-section .pr-classic ul li i { margin-left: 10px; margin-right: 0px; }
+.rtl .main-section .skillbar small { left: 0px; right: auto; padding: 4px 4px 0 0; }
+.rtl .main-section .skillbar-bar h4 { right: 10px; left: auto; }
+.rtl .main-section .skills-v2 .skillbar small { left: -20px; right: auto; }
+.rtl .main-section .skills-v2 .skillbar small:before { right: 13px; left: auto; }
+.rtl .main-section article.cs-services.top figure i ~ figcaption { padding: 0; }
+.rtl .main-section .ac-text { padding: 0 15px 0 0px; }
+
+/*============  DEFOULT PAGES STYLE ============ */
+.rtl .cs-content404 aside ~ .desc { margin: 5px 75px 4px 0px; }
+.rtl .cs-content404 aside ~ .go-home { margin: 0 17px 0 0px;}
+.rtl .cs-search-area input[type="submit"] { margin: 0 -45px 0 0; }
+.rtl .style-custom { margin: 0 -32px 0 0; }
+.rtl .search-no-results .cs-icon { padding: 0 0px 0 15px; }
+.rtl .search-no-results .cs-search-area label { left: 0px; right: auto; }
+.rtl #underconstrucion .user-signup label:before { right: 14px; left: auto; }
+.rtl .widget_search label { left: 15px; right: auto; }
+.rtl .widget ul ul { margin-left: 0px; margin-right: 20px; }
+.rtl .widget_nav_menu ul li i,.widget_nav_menu ul li img { margin-right: 0px; margin-left: 7px; }
+.rtl.cs-team .size_medium figure ~ .text { padding: 0 190px 0 0px; }
+.rtl .liststyle ul li span { padding-left: 0px; padding-right: 10px; }
+.rtl .cs-search-area input[type="submit"] { margin: 0 -45px 0 0; }
+.rtl #bottom-sec .footer-mid-sec .news-title{padding: 21px 0px 0 10px;}
+.rtl .main-section .testimonial-slider figure, .main-section .testimonial-slider .cs-author{display: inline-block; float: none!important;}
+.rtl .main-section .cs-course-search ul li input[type="submit"]{padding: 12px 20px;}
+.rtl .cs-login-sec .cs-user-login i.fa-user{margin: 0 0 0 5px;}
+.rtl .cs-login-sec .cs-user-login i.fa-angle-down{margin: 0 5px 0 0;}
+.rtl .cs-login-sec .cs-login-sec:hover .has-login{margin: 0px 0 0 0;}
+.rtl .wrapper_full_width{position: relative; overflow: hidden;}
+.rtl .user-signup input[type="text"]{padding: 0 38px 0 0;}
+.rtl .rich_editor_text ul{padding-left: 0px;}
+.rtl #respond form p.comment-form-website, .rtl #respond form p.comment-form-email, .rtl form p.comment-form-contact{padding: 0 20px 0 0;}
+.rtl #respond form p.comment-form-author{padding-right: 0px;}
+.rtl .login-from .status-message, .rtl .register-page .cs-user-register .status-message.error{left: 0px; right: auto; margin: 0 15px 0 0;}
+.rtl .login-from .status-message{margin-right: 30px;}
+.rtl .cs-signup form p input[type="checkbox"]{margin: 6px 0px 11px 10px;}
+.rtl #main-header .rtl li.parentIcon > a:after {left: 1px; margin: -2px 0 0; right: auto; top: 44%;}
+.rtl article.cs-services.right figure img{float:left !important;}
+.rtl .cs-services.right.rectangler.img-small{text-align:left !important;}
+.rtl .cs-services.right.rectangler.img-small figure img ~ figcaption{padding:0 0 0 65px !important;}
+.rtl article.cs-services.center figure img{float:none !important;}
+.rtl article.cs-services.center figure img ~ figcaption{padding:0 !important;}
+.rtl .widget_instrector figure ~ .left-sp{padding:0 75px 0 0;}
+.rtl .widget_categories ul li a::before, 
+.rtl .widget_archive ul li a::before, 
+.rtl .widget_nav_menu ul li a::before, 
+.rtl .widget_pages ul li a::before, 
+.rtl .widget_meta ul li a::before{margin:0 0 0 5px;}
+.rtl .main-section .seideleft .left_position, 
+.rtl .main-section .seideleft .listoption li{margin-left:0;}
+.rtl .main-section .blog-medium figure ~ .bloginfo{padding:0 30px 0 0;}
+.rtl .pagination ul li.pgnext{border-right:1px solid #e4e4e4;}
+.rtl .cs-search-area form{float:right;}
+.rtl .cs-search-area form label{right:auto;left:1px;}
+.rtl .style-custom{margin:0 -38px 0 0;}
+.rtl .cs-search-area input[type="text"], .rtl .cs-search-area input[type="search"]{margin-right:0; margin-left:8px;}
+.rtl .main-section .blog-medium.blog-small figure ~ .bloginfo,
+.rtl .main-section .cs-blog.has_bullet_br.blog-medium figure ~ .bloginfo{padding:0 290px 0 0;}
+.rtl .about-author figure ~ .text::before{right:34px;left:0;}
+.rtl .main-digit-wrapp .digit-wrapp span:first-child{border-left:1px solid #ddd;border-right:0;}
+.rtl .main-section .cs-list.list_v1 .custom-btn i{margin-left:8px;margin-right:8px;}
+.rtl .main-section .cs-list.list_v3 .custom-btn i{margin-left:8px;margin-right:0;}
+.rtl .main-section .cs-cat-list li .cs-lessons i.fa{position:relative;top:2px;}
+.rtl .main-section .cs-list.cs-flat-view .text-section{text-align:right !important;}
+.rtl .main-section .cs-list.cs-flat-view .text-section .seideleft{float:right;}
+.rtl .main-section .courses .cr-flat figure,
+.rtl .main-section .courses .cr-flat a.custom-btn{ float:left !important;}
+.rtl .main-section .cs-flat-view .cs-cat-list,
+.rtl .cs-flat-view .left_position .listoption,
+.rtl .cs-list.cs-modren-view .text-section .cs-top-sec .seideleft,
+.rtl .main-section .cs-list.cs-modren-view .cs-cat-list,
+.rtl .main-section .cs-list.cs-modren-view .cs-cat-list li{float:right !important;}
+.rtl .cs-list.cs-modren-view .left_position > h2,
+.rtl .about-title h3{text-align:right;}
+.rtl .cs-flat-view .cs-cat-list li ,
+.rtl .main-section .cs-cat-list li:first-child
+.rtl .main-section .cs-cat-list li:last-child{width:100% !important;margin-right:0 !important;}
+.rtl .main-section .cs-list.cs-list-view .listoption li{margin-left:10px;}
+.rtl .widget_instrector ul li{padding:18px 0 0 !important;margin:18px 0 0 !important;border-bottom:none !important;}
+.rtl .detail_text #course-breif li{list-style:inside;}
+.rtl .shortcode-nav ul li a{float:right;all 0.1s linear 0s}
+.rtl .shortcode-nav ul li.active::before,
+.rtl .shortcode-nav ul li::before{left:auto; right:0;}
+.rtl .shortcode-nav ul li:after,
+.rtl .shortcode-nav ul li.active:after,
+.rtl .shortcode-nav ul li:hover::after{right:auto;left:0;transform:scaleX(-1);}
+.rtl .shortcode-nav ul li a i{margin-left:7px;margin-right:0;}
+.rtl .shortcode-nav ul li:hover a{padding-right:6px;all 0.1s linear 0s}
+.rtl .social-media a,
+.rtl .about-title h3{float:right;}
+.rtl .featured-post{left:auto;right:5px;}
+.rtl .cs-filter-menu li{margin-right:0;margin-left:27px;}
+.rtl .cs-blog .bloginfo a.custom-btn::before{transform:scaleX(-1);}
+.rtl .page-title-align-center .breadcrumb{text-align:center !important;}
+.rtl .pageinfo.page-title-align-center .breadcrumb .breadcrumbs{float:none !important;}
+.rtl .cs-blog.has_bullet_br.blog-medium  li{margin-right:0;margin-left:15px;}
+.rtl .post-option li a{float:left !important;}
+.rtl blockquote::before{transform:scaleX(-1);}
+.rtl .main-section .event-list.cs-ev-grid .ev-text{padding:32px 30px 30px;}
+.rtl .main-section .event-list.cs-ev-grid .ev-location{width:100%;}
+.rtl .event-info ul li small{padding-left:0;padding-right:23px;}
+.rtl .eventsCalendar-daysList{width:100% !important;}
+.rtl .cs-testimonial p{text-align:center;padding-right:10px;}
+.rtl .cs-testimonial p::before{position:relative;right:-5px;text-align:center;text-indent:-7px !important;}
+.rtl .liststyle .cs-orderedlist li{list-style:inside decimal !important;}
+.rtl .twitter-section .slides .text {padding-left: 0; padding-right: 90px; text-align: right;}
+.rtl .cs-twitter .widget_slider .flex-direction-nav{left:-30px;}
+.rtl .cs-customfont h2,
+.rtl .lost_password{text-align:right !important;}
+.rtl .button.wc-backward,
+.rtl .form-row > input{float:right !important;}
+.rtl .form-row,
+.rtl .form-row.form-row-wide > label{text-align:right !important;}
+.rtl .form-row > input.button{margin-right:0 !important;margin-left:10px !important;}
+.rtl .main-section .cs-blog.blog-lrg .blog-bottom li a i{margin:0 5px 0 0;}
+.rtl .main-section .blog-left li a i{float:left !important;}
+.rtl .result-table table thead tr th,
+.rtl .result-table table tbody tr td {padding-right: 10px; text-align: right;}
+.rtl .cs-member .crt-listing li,
+.rtl .cs-member ul li span.crt-expiry,
+.rtl .toggle-sec .pagination.quiz-pagination,
+.rtl .toggle-sec .pagination.quiz-pagination li,
+.rtl .result-heading i,
+.rtl ul.check-box label,
+.rtl .rich_editor_text .upload-file li input[type="text"], 
+.rtl .rich_editor_text .upload-file li input[type="password"], 
+.rtl .rich_editor_text .upload-file li textarea,
+.rtl .rich_editor_text .upload-file .inner-sec select,
+.rtl .rich_editor_text .upload-file li .pbwp-checkbox,
+.rtl .rich_editor_text .inner-sec p,
+.rtl .rich_editor_text .browse-sec > input,
+.rtl .rich_editor_text .browse-sec,
+.rtl .rich_editor_text .fileUpload,
+.rtl .rich_editor_text .cs-bgcolr.cs-update-avatar,
+.rtl .rich_editor_text .submit.button{float:right !important;}
+.rtl .result-heading i{margin:3px 0 0 5px;}
+.rtl .toggle-sec .pagination.quiz-pagination li{margin:0 0 0 10px}
+.rtl ul.check-box label{padding-left:0;padding-right:25px;margin-right:0;margin-left:15px;}
+.rtl ul.check-box label::before{margin-left:0;left:0;right:-16px;}
+.rtl .page-not-found {left: auto;right: 0;}
+.rtl .rich_editor_text .inner-sec p,
+.rtl .rich_editor_text .cs-hint-text{text-align:right !important;}
+.rtl .cs-author span {display:block; padding-top:5px; text-align:right;}
+.rtl .cs-login-sec ul li {padding:0 15px 0 0;}
+.rtl .cs-login-sec ul li:first-child {padding-right: 0;}
+.rtl .heading-description > ul {text-align: right;}
+.rtl .widget.cs_twitter_widget ul.slides li .text, .rtl .widget.cs_twitter_widget .text span, .rtl .cs-author {text-align:right;}
+.rtl .widget.cs_twitter_widget .text span {direction:rtl;}
+.rtl .widget_text ul li i {margin-left:7px; margin-right:0;}
+.rtl .post-option li i {margin-left: 5px; margin-right:0;}
+.rtl .text-left-align {text-align:right;}
+.rtl blockquote .cs-user-name span i {margin-left: 6px; margin-right: 0;}
+.rtl .cs_counter.left figure img {margin: 0 0 0 20px;}
+
+
+/*============	Media 768Px Start ============ */ 
+@media (min-width: 768px) and (max-width: 990px) {
+	.rtl .navbar-header{left:auto;}
+	.rtl .main-section article.cs-services.img-small figure i ~ figcaption{padding: 0 85px 0 0;}
+	.rtl .sub-menu .dropdown-menu .dropdown-menu { left: auto; right: 0px;}
+	.rtl .twitter-section .widget_slider .follow-on{left: auto; right: -16%;}
+	.rtl #main-header .head-right .cs-login-sec .cs-signup{left: 50%; margin: 21px 0 0 -50px; right: auto;}
+	.rtl .main-section article.cs-services.classic figure i:after { right: -143px; width: 136px; left: auto; }
+	.rtl .header_5 .head-right{width: 59%;}
+	.rtl .navbar-toggle{margin: 16px 15px;}
+	.rtl .head-right .navbar-toggle{margin: 0px;}
+	.rtl #main-header .sub-menu .dropdown-menu .dropdown-menu { left: auto; right:0px; }
+	.rtl .header_6 .main-head .cs-login-sec .cs-login-sec{padding: 10px 0;}
+	.rtl .main-head .head-right{margin-bottom: 30px;}
+	.rtl .header-absolute #main-header {position: relative; z-index: 9999;}
+	.rtl .main-section article.cs-modren-view figure ~ .text-section{margin: 0px 15px 0 0;}
+	.rtl .main-section .cs-ev-plain .ev-left {width: 100%;}
+	.rtl .login_nav {left:0; right:auto; z-index:9;}
+	.rtl .header_7 .navbar-collapse .nav {background-color:#fff;}
+	.rtl .header_7 .navbar-collapse {background:none !important;}
+	.rtl .header_7 .head-right {overflow:visible;}
+	.rtl .header_1 .navbar-collapse {background:none;}
+	.rtl .main-section .cs-list.list_v3 figure ~ .text-section {margin-right: 0; margin-left: 0px;}
+	.rtl #underconstrucion footer .social-media a{float:none; display:inline-block;}
+	.rtl .main-section .cs-big-view figure ~ .text-section{padding: 22px 0 0 0;}
+	.rtl .main-section .cs-flat-view .cr-flat, .rtl .main-section .courses .cr-flat a.custom-btn,
+	.rtl .main-section .cs-list.list_v4 .custom-btn {float:right !important;}
+	.rtl .main-section .cs-list-view figure ~ .text-section {padding-right:0;}
+}
+
+/*============	Media 767Px Start ============ */ 
+@media (max-width: 767px) {
+	.navbar-header .navbar-toggle {float:none;}
+	.rtl .sub-menu .dropdown-menu .dropdown-menu { left: auto; right: 0px; }
+	.rtl .head-right .cs-login-sec .cs-signup{left: 0; margin: 8px 0 0 0px; right: auto; width: 450px;}
+	.rtl .cs-login-sec .cs-login-sec .has-login.cs-signup{left: 0; margin: 8px 0 0 -20px; right: auto; width: 300px;}
+	.rtl .cs-services.center.classic.img-small figure i ~ figcaption {padding: 0!important;}
+	.rtl .header_5 .head-right{width: 59%;}
+	.rtl #main-header .sub-menu .dropdown-menu .dropdown-menu { left: auto; right:0px; }
+	.rtl .header-absolute #main-header {position: relative; z-index: 9999;}
+	.rtl .header_6 .main-head .cs-login-sec .cs-login-sec{padding: 10px 0;}
+	.rtl .main-head .head-right{margin-bottom: 30px;}
+	.rtl .main-section article.cs-modren-view figure ~ .text-section{margin: 0px;}
+	.rtl .main-section .cs-blog.blog-small.blog-medium .blog-bottom{width: 100%;}
+	.rtl .main-section #comment ul .children{padding: 0px;}
+	.rtl .main-section .messagebox-v2.close_btn_style .close{left:22px; right: auto;}
+	.rtl .main-section .messagebox-v1{padding: 30px 10px;}
+	.rtl .main-section .event-list .ev-text {float: left; }
+	.rtl .login_nav {left:0; right:auto;}
+	.rtl .head-right .cs-login-sec {padding: 0 0 60px 25px;}
+	.rtl .cs-list.list_v1 {margin-left:-10px;}
+	.rtl .header_1 .navbar-nav {margin:-12px -25px 15px; background: #fff;}
+	.rtl .navbar-default .navbar-nav > li.current-menu-ancestor a {color:#000 !important;}
+	.rtl .header_7 .nav {background:#fff; margin-top:32px;}
+	.rtl #main-header.header_7 .navigation {margin: -90px 0 0 0;}
+	.rtl .cs-blog.blog-medium figure, .rtl .cs-blog.blog-medium.lg-thumb figure, 
+	.rtl .main-section .cs-blog.has_bullet_br figure {margin:0 0 10px 0;}
+	.rtl .main-section .cs-list.list_v3 figure {width:270px;}
+	.rtl .courses.cs-list.list_v3 a.custom-btn {margin:0; float: right !important;}
+	.rtl .cs-list.list_v3 .cs-cat-list, .rtl .cs-list.list_v4 .cs-cat-list {width: 100%;}
+	.rtl .owl-carousel .owl-item {text-align:center;}
+	.rtl .breadcrumbs, .rtl .main-section .courses .cr-flat a.custom-btn, .rtl .main-section .cs-list.list_v4 .custom-btn {float:right !important;}
+	.rtl .main-section .cs-big-view figure ~ .text-section {padding: 22px 0 0 0;}
+	.rtl .main-section .blog-medium.blog-small figure ~ .bloginfo, 
+	.rtl .main-section .cs-blog.has_bullet_br.blog-medium figure ~ .bloginfo {padding:0;}
+	.rtl #respond form p.comment-form-website, .rtl #respond form p.comment-form-email, .rtl form p.comment-form-contact {padding:0;}
+}
+@media (max-width: 520px) {
+	.rtl .widget-recent-blog .recent-inn::before{height: 81%;}
+
+}
+
+/*============ Media 300Px Star ============ */
+@media (max-width: 480px) {
+	.rtl .head-right .cs-login-sec .cs-signup{left: 0; margin: 8px 0 0 0px; right: auto; width: 300px;}
+	.rtl .cs-login-sec .cs-login-sec .has-login.cs-signup{left: 0; margin: 8px 0 0 -20px; right: auto; width: 230px;}
+	.rtl .cs-signup .footer-element{padding: 0 0 0 22px;}
+	.rtl .main-section .page-section .blog-clean figure ~ .bloginfo {padding:0;}
+	.rtl .header-absolute .header_7 .main-head .cs-login-sec {padding: 0 20px 12px 0;}
+	.rtl .navbar-default .navbar-nav > li.current-menu-ancestor a {color:#000 !important;}
+	.rtl #main-header.header_7 .navigation {margin: -55px 0 0 0;}
+	.rtl .main-section .cs-list.list_v3 figure ~ .text-section {margin:0;}
+	.rtl .main-section .cs-list.list_v3 figure {width:100%;}
+	.rtl .filter_nav ul li, .rtl .filter_nav ul li a {width: 100%;}
+	.rtl .main-section article.cs-modren-view .cs-cat-list {margin-bottom:20px;}
+	.rtl .main-section .cs-tabs .nav-tabs > li.active > a {padding:12px 25px 12px 10px;}
+	.rtl .main-section .cs-share-post-section a {margin: 0 0 10px 10px;}
+	.rtl .main-section .event-list .ev-btn {float:right !important;}	
+}
+@media screen and (min-width: 991px) and (max-width: 1054px) {
+	.rtl .footer-mid-sec .user-signup{width: 69%;}
+	.rtl .footer-mid-sec .news-title{padding:21px 0 0 15px;}
+	.rtl .cs-course-search ul li input[type="submit"]{padding: 12px 10px;}
+	.rtl  article.cs-services.img-medum figure img ~ figcaption{padding: 0 120px 0 0;}
+	.rtl article.cs-services.rectangler figure img ~ figcaption{padding: 0 140px 0 0;}
+	.rtl  article.cs-services.img-medum figure img ~ figcaption a h4{font-size: 14px!important;}
+	.rtl .cs-services.center.classic.img-small figure i ~ figcaption {padding: 0!important;}
+	.rtl .main-section article.cs-services.classic figure i:after { right: -143px; width: 136px; left: auto; }
+	.rtl .header_5 .nav > li > a{padding: 15px 20px;}
+	.rtl .widget-recent-blog .recent-inn::before{height: 81%;}
+	.rtl .owl-carousel .owl-item {text-align:center;}
+	.rtl .widget_slider .flex-direction-nav {left: -20px;}
+	.rtl .twitter-section .slides .text {padding-right: 20px;}
+	.rtl .main-section .cs-list.cs-flat-view .text-section {width:80%;}
+	.rtl .cs_assigment_tabs ul li {padding:6px 16px 6px;}
+	.rtl .cs-blog.has_bullet_br.blog-medium li {margin-left: 12px;}
+	.rtl .filter-nav .cs-filter-menu li {margin-right:0;}
+	.rtl article.blog_thumb .bloginfo {padding:15px 10px;}
+
+}

@@ -1,0 +1,2536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EDULMS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Mar 10 2016 14:38:14 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: Thu Mar 10 2016 14:38:36 GMT+0500 (Pakistan Standard Time)\n"
+"Last-Translator: Julia <dum1@chimpgroup.com>\n"
+"Language-Team: \n"
+"Language: Arabic\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "EDULMS"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://edulms.chimpgroup.com/edufuture"
+msgstr ""
+
+#. Description of the plugin
+msgid "Education Learning Management System"
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://edulms.chimpgroup.com"
+msgstr ""
+
+#: ../admin/post_type_course.php:842
+msgid "Add Unit Title to List"
+msgstr ""
+
+#: ../admin/post_type_course.php:1568
+msgid "Date Format: 2014-10-22 13:44"
+msgstr ""
+
+#: ../admin/post_type_course.php:1575
+msgid "Date Format: 2015-10-22 13:44"
+msgstr ""
+
+#: ../admin/post_type_course.php:1626
+msgid "Add Course Member to List"
+msgstr ""
+
+#: ../admin/post_type_course.php:1666
+msgid "Update Subject"
+msgstr ""
+
+#: ../admin/post_type_course.php:1742
+msgid "Update Quiz"
+msgstr ""
+
+#: ../admin/post_type_course.php:1826
+msgid "Upload Size"
+msgstr ""
+
+#: ../admin/post_type_course.php:1870
+msgid "Update Assignment"
+msgstr ""
+
+#: ../admin/post_type_course.php:1925
+msgid "Update Curriculum"
+msgstr ""
+
+#: ../admin/post_type_course.php:1981
+msgid "Update Certificate"
+msgstr ""
+
+#: ../admin/post_type_curriculums.php:53
+msgid "Curriculums"
+msgstr ""
+
+#: ../admin/post_type_curriculums.php:54 ../admin/post_type_curriculums.php:57
+msgid "Add New Curriculums"
+msgstr ""
+
+#: ../admin/post_type_curriculums.php:55
+msgid "Edit Curriculums"
+msgstr ""
+
+#: ../admin/post_type_curriculums.php:56
+msgid "New Curriculums Item"
+msgstr ""
+
+#: ../admin/post_type_curriculums.php:58
+msgid "View Curriculums Item"
+msgstr ""
+
+#: ../admin/post_type_curriculums.php:59
+msgid "Search Curriculums"
+msgstr ""
+
+#: ../admin/post_type_curriculums.php:60 ../admin/post_type_reviews.php:120 ..
+#: include/edulms-faqs/post_type_faqs.php:32
+msgid "Nothing found"
+msgstr ""
+
+#: ../admin/post_type_curriculums.php:61 ../admin/post_type_reviews.php:121 ..
+#: include/edulms-faqs/post_type_faqs.php:33
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../admin/post_type_quiz.php:171
+msgid "hh:mm:ss"
+msgstr ""
+
+#: ../admin/post_type_reviews.php:6
+msgid "Users"
+msgstr ""
+
+#: ../admin/post_type_reviews.php:98
+msgid ""
+"Your Given Review will be Sent to Administrators. Once your Review has been "
+"Approved.Review Will be Posted publicly on the web"
+msgstr ""
+
+#: ../admin/post_type_reviews.php:101
+msgid "Your Given Review has been Approved and Will be Posted publicly on the web"
+msgstr ""
+
+#: ../admin/post_type_reviews.php:114 ../admin/post_type_reviews.php:117
+msgid "Add New Reviews"
+msgstr ""
+
+#: ../admin/post_type_reviews.php:115
+msgid "Edit Reviews"
+msgstr ""
+
+#: ../admin/post_type_reviews.php:116
+msgid "New Reviews Item"
+msgstr ""
+
+#: ../admin/post_type_reviews.php:118
+msgid "View Reviews Item"
+msgstr ""
+
+#: ../admin/post_type_reviews.php:119
+msgid "Search v"
+msgstr ""
+
+#: ../include/edulms-courses/course-functions - Copy.php:91 ../include/edulms-
+#: courses/course-functions - Copy.php:167 ../include/edulms-courses/course-
+#: functions.php:91 ../include/edulms-courses/course-functions.php:167
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../include/edulms-courses/single-courses.php:680
+msgid ""
+"<div class=\"error_mess\"><p>You are not authorized to access it. Please "
+"subscribe to this course.</p></div>"
+msgstr ""
+
+#: ../include/edulms-faqs/post_type_faqs.php:25
+msgid "Faqs"
+msgstr ""
+
+#: ../include/edulms-faqs/post_type_faqs.php:26 ../include/edulms-
+#: faqs/post_type_faqs.php:29
+msgid "Add New Faq"
+msgstr ""
+
+#: ../include/edulms-faqs/post_type_faqs.php:27
+msgid "Edit Faq"
+msgstr ""
+
+#: ../include/edulms-faqs/post_type_faqs.php:28
+msgid "New Faq Item"
+msgstr ""
+
+#: ../include/edulms-faqs/post_type_faqs.php:30
+msgid "View Faq Item"
+msgstr ""
+
+#: ../include/edulms-faqs/post_type_faqs.php:31
+msgid "Search Faq"
+msgstr ""
+
+#: ../include/edulms-faqs/post_type_faqs.php:61
+#, php-format
+msgid "Under Review <span class=\"count\">(%s)</span>"
+msgid_plural "Under Review <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../include/edulms-login/login-forms.php:71 ../include/edulms-login/login-forms.
+#: php:74 ../include/edulms-login/login-forms.php:77
+msgid "Please set API key"
+msgstr ""
+
+#: ../include/edulms-login/login-forms.php:71
+msgid "Login With Facebook"
+msgstr ""
+
+#: ../include/edulms-login/login-forms.php:74
+msgid "Login With twitter"
+msgstr ""
+
+#: ../include/edulms-login/login-forms.php:77
+msgid "Login with Google Plus"
+msgstr ""
+
+#: ../include/edulms-login/login-forms.php:155 ../include/edulms-login/login-
+#: forms.php:155 ../include/edulms-login/login-forms.php:155
+msgid "Password"
+msgstr ""
+
+#: ../include/edulms-login/cs-social-login/cs_social_login.php:152
+msgid "<strong>ERROR</strong>: Registration is disabled."
+msgstr ""
+
+#: ../include/edulms-login/cs-social-login/google/cs-google-connect.php:200 ..
+#: include/register-templates/templates/functions_profile.php:632
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: ../include/edulms-settings/settings.php:253
+msgid "-- Sort By --"
+msgstr ""
+
+#. Base ID
+#: ../include/edulms-widgets/cs-latest-reviews.php:29
+msgid "CS : Latest Reviews"
+msgstr ""
+
+#: ../include/register-templates/templates/page_profile.php:1012
+msgid "Upload"
+msgstr ""
+
+#: ../admin/post_type_assignments.php:34
+msgid "Assignments"
+msgstr "تعيينات"
+
+#: ../admin/post_type_assignments.php:35 ../include/edulms-quiz/quiz-functions.
+#: php:1396 ../include/edulms-settings/settings.php:230
+msgid "Assignment"
+msgstr "مهمة"
+
+#: ../admin/post_type_assignments.php:36
+msgctxt "Admin menu name"
+msgid "Assignments"
+msgstr "تعيينات"
+
+#: ../admin/post_type_assignments.php:37 ../admin/post_type_course.php:820
+msgid "Add Assignment"
+msgstr "إضافة التنازل"
+
+#: ../admin/post_type_assignments.php:38
+msgid "Add New Assignment"
+msgstr "إضافة مهمة جديدة"
+
+#: ../admin/post_type_assignments.php:39 ../admin/post_type_certificates.php:45 ..
+#: admin/post_type_course.php:77 ../admin/post_type_quiz.php:43 ..
+#: include/edulms-curriculums/single-cs-curriculums.php:110
+msgid "Edit"
+msgstr "تحرير"
+
+#: ../admin/post_type_assignments.php:40
+msgid "Edit Assignment"
+msgstr "تحرير تعيين"
+
+#: ../admin/post_type_assignments.php:41
+msgid "New Assignment"
+msgstr "تعيين جديد"
+
+#: ../admin/post_type_assignments.php:42 ../admin/post_type_assignments.php:43
+msgid "View Assignment"
+msgstr "عرض التنازل"
+
+#: ../admin/post_type_assignments.php:44
+msgid "Search Assignment"
+msgstr "بحث تعيين"
+
+#: ../admin/post_type_assignments.php:45
+msgid "No Assignment found"
+msgstr "لم يتم العثور على تعيين"
+
+#: ../admin/post_type_assignments.php:46
+msgid "No Assignment found in trash"
+msgstr "لا توجد في سلة المهملات الواجب"
+
+#: ../admin/post_type_assignments.php:47
+msgid "Parent Assignment"
+msgstr "تعيين الوالد"
+
+#: ../admin/post_type_assignments.php:49 ../admin/post_type_course.php:87
+msgid "This is where you can add new Assignment."
+msgstr "هذا هو المكان الذي يمكنك إضافة مهمة جديدة ."
+
+#: ../admin/post_type_assignments.php:80
+msgid "Assignments Options"
+msgstr "خيارات الواجبات"
+
+#: ../admin/post_type_assignments.php:97
+msgid "Assignment Type"
+msgstr "نوع التعيين"
+
+#: ../admin/post_type_assignments.php:98
+msgid "Select the Assignment type"
+msgstr "حدد نوع المهمة"
+
+#: ../admin/post_type_certificates.php:40 ../admin/post_type_certificates.php:41 .
+#: ./include/register-templates/templates/functions_profile.php:47 ..
+#: include/register-templates/templates/functions_profile.php:508
+msgid "Certificates"
+msgstr "شهادة"
+
+#: ../admin/post_type_certificates.php:42
+msgctxt "Admin menu name"
+msgid "Certificates"
+msgstr "الشهادات"
+
+#: ../admin/post_type_certificates.php:43
+msgid "Add Certificates"
+msgstr "إضافة شهادات"
+
+#: ../admin/post_type_certificates.php:44
+msgid "Add New Certificates"
+msgstr "إضافة شهادات جديدة"
+
+#: ../admin/post_type_certificates.php:46
+msgid "Edit Certificates"
+msgstr "تحرير الشهادات"
+
+#: ../admin/post_type_certificates.php:47
+msgid "New Certificates"
+msgstr "شهادات جديدة"
+
+#: ../admin/post_type_certificates.php:48 ../admin/post_type_certificates.php:49
+msgid "View Certificates"
+msgstr "عرض الشهادات"
+
+#: ../admin/post_type_certificates.php:50
+msgid "Search Certificates"
+msgstr "بحث الشهادات"
+
+#: ../admin/post_type_certificates.php:51
+msgid "No Certificate found"
+msgstr "لا توجد شهادة"
+
+#: ../admin/post_type_certificates.php:52
+msgid "No Certificate found in trash"
+msgstr "لا توجد في سلة المهملات شهادة"
+
+#: ../admin/post_type_certificates.php:53
+msgid "Parent Certificates"
+msgstr "شهادات الأم"
+
+#: ../admin/post_type_certificates.php:55
+msgid "This is where you can add new Certificates."
+msgstr "هذا هو المكان الذي يمكنك إضافة شهادات جديدة ."
+
+#: ../admin/post_type_certificates.php:91
+msgid "Certificates Options"
+msgstr "شهادات خيارات"
+
+#: ../admin/post_type_certificates.php:114
+msgid "Custom Background Image"
+msgstr "العرف صورة الخلفية"
+
+#: ../admin/post_type_certificates.php:118 ../admin/post_type_curriculums.php:202
+#: ../include/edulms-settings/settings.php:535 ../include/edulms-
+#: settings/settings.php:606
+msgid "Browse"
+msgstr "تصفح"
+
+#: ../admin/post_type_certificates.php:137
+msgid "Enable Print"
+msgstr "تمكين طباعة"
+
+#: ../admin/post_type_certificates.php:147
+msgid "Custom CSS"
+msgstr "CSS مخصصة"
+
+#: ../admin/post_type_certificates.php:155
+msgid "NOTE"
+msgstr "ملاحظة:"
+
+#: ../admin/post_type_certificates.php:157
+msgid "USE FOLLOWING SHORTCODES TO DISPLAY RELEVANT DATA"
+msgstr "نستخدم بعد الهاتفية القصيرة لعرض البيانات ذات الصلة:"
+
+#: ../admin/post_type_course.php:5 ../include/register-
+#: templates/templates/page_add_courses.php:34
+msgid "Category"
+msgstr "فئة"
+
+#: ../admin/post_type_course.php:6 ../admin/post_type_reviews.php:9
+msgid "Author"
+msgstr "مؤلف"
+
+#: ../admin/post_type_course.php:71 ../include/register-
+#: templates/templates/functions_profile.php:72
+msgid "LMS"
+msgstr "LMS"
+
+#: ../admin/post_type_course.php:72 ../admin/post_type_reviews.php:8 ..
+#: include/register-templates/templates/page_profile.php:314
+msgid "Courses"
+msgstr "الدورات"
+
+#: ../admin/post_type_course.php:73 ../include/edulms-settings/settings.php:152
+msgid "Course"
+msgstr "دورة"
+
+#: ../admin/post_type_course.php:75
+msgid "Add Course"
+msgstr "إضافة دورة"
+
+#: ../admin/post_type_course.php:76 ../include/register-
+#: templates/templates/page_add_courses.php:16
+msgid "Add New Course"
+msgstr "إضافة مسار جديد"
+
+#: ../admin/post_type_course.php:78
+msgid "Edit Course"
+msgstr "تحرير دورة"
+
+#: ../admin/post_type_course.php:79
+msgid "New Course"
+msgstr "دورة جديدة"
+
+#: ../admin/post_type_course.php:80
+msgid "View Courses"
+msgstr "عرض المقررات"
+
+#: ../admin/post_type_course.php:81
+msgid "View Course"
+msgstr "عرض دورة"
+
+#: ../admin/post_type_course.php:82
+msgid "Search Courses"
+msgstr "بحث مقررات دراسية"
+
+#: ../admin/post_type_course.php:83
+msgid "No Course found"
+msgstr "لا توجد دورة"
+
+#: ../admin/post_type_course.php:84
+msgid "No Course found in trash"
+msgstr "لا توجد دورة في سلة المهملات"
+
+#: ../admin/post_type_course.php:85
+msgid "Parent Course"
+msgstr "دورة الوالد"
+
+#: ../admin/post_type_course.php:108
+msgid "Course Categories"
+msgstr "بالطبع الفئات"
+
+#: ../admin/post_type_course.php:109
+msgid "Search Course Categories"
+msgstr "دورة البحث الفئات"
+
+#: ../admin/post_type_course.php:110
+msgid "Edit Course Category"
+msgstr "تحرير فئة المساق"
+
+#: ../admin/post_type_course.php:111
+msgid "Update Course Category"
+msgstr "دورة التحديث الفئة"
+
+#: ../admin/post_type_course.php:112
+msgid "Add New Category"
+msgstr "إضافة فئة جديدة"
+
+#: ../admin/post_type_course.php:113 ../include/edulms-courses/course-functions -
+#: Copy.php:767 ../include/edulms-courses/course-functions.php:767
+msgid "Categories"
+msgstr "الفئات"
+
+#: ../admin/post_type_course.php:130
+msgid "Course Tags"
+msgstr "الكلمات بالطبع"
+
+#: ../admin/post_type_course.php:132
+msgid "Search Tags"
+msgstr "بحث الكلمات"
+
+#: ../admin/post_type_course.php:133
+msgid "Popular Tags"
+msgstr "الكلمات شعبية"
+
+#: ../admin/post_type_course.php:134
+msgid "All Tags"
+msgstr "كل الكلمات"
+
+#: ../admin/post_type_course.php:137
+msgid "Edit Tag"
+msgstr "تحرير علامة"
+
+#: ../admin/post_type_course.php:138
+msgid "Update Tag"
+msgstr "تحديث الوسم"
+
+#: ../admin/post_type_course.php:139
+msgid "Add New Tag"
+msgstr "إضافة علامة جديدة"
+
+#: ../admin/post_type_course.php:142
+msgid "Add or remove tags"
+msgstr "إضافة أو إزالة العلامات"
+
+#: ../admin/post_type_course.php:143
+msgid "Choose from the most used tags"
+msgstr "الاختيار من بين العلامات الأكثر استخداما"
+
+#: ../admin/post_type_course.php:185 ../admin/post_type_course.php:241 ..
+#: include/edulms-settings/settings.php:77 ../include/edulms-settings/settings.
+#: php:666
+msgid "Course Options"
+msgstr "خيارات بالطبع"
+
+#: ../admin/post_type_course.php:227
+msgid "General"
+msgstr "عام"
+
+#: ../admin/post_type_course.php:232
+msgid "Sub Header"
+msgstr "رأس الباطن"
+
+#: ../admin/post_type_course.php:237
+msgid "Seo Options"
+msgstr "خيارات سيو"
+
+#: ../admin/post_type_course.php:245
+msgid "Event"
+msgstr "حدث"
+
+#: ../admin/post_type_course.php:249 ../include/edulms-courses/single-courses.php:
+#: 71 ../include/edulms-settings/settings.php:164
+msgid "Members"
+msgstr "الأعضاء"
+
+#: ../admin/post_type_course.php:250
+msgid "Unit Settings"
+msgstr "إعدادات وحدة"
+
+#: ../admin/post_type_course.php:290
+msgid "Course Detail Views"
+msgstr "التفاصيل بالطبع المشاهدات"
+
+#: ../admin/post_type_course.php:296
+msgid "Wide"
+msgstr "واسع"
+
+#: ../admin/post_type_course.php:297
+msgid "Fullwidth"
+msgstr "العرض الكامل"
+
+#: ../admin/post_type_course.php:298
+msgid "In Post"
+msgstr "في الموضوع"
+
+#: ../admin/post_type_course.php:311
+msgid "Date Time"
+msgstr "التاريخ الوقت"
+
+#: ../admin/post_type_course.php:322
+msgid "Select Instructor"
+msgstr "حدد المدرب"
+
+#: ../admin/post_type_course.php:382
+msgid "Events Listing Types"
+msgstr "الأحداث قائمة أنواع"
+
+#: ../admin/post_type_course.php:389
+msgid "All Events"
+msgstr "كل الأحداث"
+
+#: ../admin/post_type_course.php:390
+msgid "Upcoming Events"
+msgstr "الأحداث القادمة"
+
+#: ../admin/post_type_course.php:391
+msgid "Past Events"
+msgstr "الأحداث الماضية"
+
+#: ../admin/post_type_course.php:398
+msgid "Event Excerpt Length"
+msgstr "الحدث مقتطفات طول"
+
+#: ../admin/post_type_course.php:441
+msgid "Select Event"
+msgstr "حدد الحدث"
+
+#: ../admin/post_type_course.php:502
+msgid "Choose Tabs View"
+msgstr "اختيار علامات مشاهدة"
+
+#: ../admin/post_type_course.php:507
+msgid "Classic"
+msgstr "كلاسيكي"
+
+#: ../admin/post_type_course.php:508
+msgid "Modern"
+msgstr "حديث"
+
+#: ../admin/post_type_course.php:515
+msgid "Course Brief Tab Title"
+msgstr "موجز بالطبع تبويب عنوان"
+
+#: ../admin/post_type_course.php:526
+msgid "FAQS Tab Title"
+msgstr "أسئلة وأجوبة تبويب عنوان"
+
+#: ../admin/post_type_course.php:536
+msgid "Curriclum Tab Title"
+msgstr "تطوير المناهج تبويب عنوان"
+
+#: ../admin/post_type_course.php:546
+msgid "Event Tab Title"
+msgstr "الحدث تبويب عنوان"
+
+#: ../admin/post_type_course.php:556
+msgid "Members Tab Title"
+msgstr "أعضاء تبويب عنوان"
+
+#: ../admin/post_type_course.php:566
+msgid "Reviews Tab Title"
+msgstr "استعراض تبويب عنوان"
+
+#: ../admin/post_type_course.php:579 ../include/edulms-settings/settings.php:231 .
+#: ./include/register-templates/templates/page_profile.php:185
+msgid "Badges"
+msgstr "شارات"
+
+#: ../admin/post_type_course.php:583 ../admin/post_type_course.php:614 ..
+#: admin/post_type_course.php:1044 ../admin/post_type_course.php:1537 ..
+#: admin/post_type_course.php:1700 ../include/edulms-courses/course-functions -
+#: Copy.php:512 ../include/edulms-courses/course-functions.php:512
+msgid "None"
+msgstr "لا شيء"
+
+#: ../admin/post_type_course.php:598
+msgid "Assign Badge On"
+msgstr "تعيين شارة على"
+
+#: ../admin/post_type_course.php:602 ../admin/post_type_course.php:636
+msgid "Course Expire"
+msgstr "إنته بالطبع"
+
+#: ../admin/post_type_course.php:603 ../admin/post_type_course.php:637
+msgid "Course Purchase"
+msgstr "شراء بالطبع"
+
+#: ../admin/post_type_course.php:604 ../admin/post_type_course.php:638
+msgid "Course Successfully Completion"
+msgstr "الدورة بنجاح استكمال"
+
+#: ../admin/post_type_course.php:610 ../admin/post_type_course.php:1954 ..
+#: include/edulms-certificates/certificates-functions.php:50
+msgid "Certificate"
+msgstr "شهادة"
+
+#: ../admin/post_type_course.php:632
+msgid "Assign Certificate On"
+msgstr "تعيين الشهادة على"
+
+#: ../admin/post_type_course.php:644
+msgid "Course Code"
+msgstr "رمز المقرر"
+
+#: ../admin/post_type_course.php:652
+msgid "Course Passing Marks in"
+msgstr "بالطبع اجتياز ماركس في"
+
+#: ../admin/post_type_course.php:661
+msgid "Short Description"
+msgstr "وصف قصير"
+
+#: ../admin/post_type_course.php:669
+msgid "Course Duration (No of Days)"
+msgstr "مدة الدورة ( عدد أيام)"
+
+#: ../admin/post_type_course.php:677
+msgid "Course Paid"
+msgstr "دفعت بالطبع"
+
+#: ../admin/post_type_course.php:682
+msgid "FREE Course WITH USER REGISTRATION"
+msgstr "دورة مجانية مع تسجيل المستخدم"
+
+#: ../admin/post_type_course.php:683
+msgid "Restricted Course (PAID WITH WOOCOMMERCE)"
+msgstr "دورة المقيد ( تدفع مع WOOCOMMERCE )"
+
+#: ../admin/post_type_course.php:685
+msgid "Restricted Course (Paid With Custom)"
+msgstr "دورة المقيد ( تدفع مع مخصص)"
+
+#: ../admin/post_type_course.php:691 ../include/edulms-courses/course-functions -
+#: Copy.php:1243 ../include/edulms-courses/course-functions - Copy.php:1266 ..
+#: include/edulms-courses/course-functions - Copy.php:1283 ../include/edulms-
+#: courses/course-functions.php:1246 ../include/edulms-courses/course-functions.
+#: php:1269 ../include/edulms-courses/course-functions.php:1286 ..
+#: include/register-templates/templates/page_profile.php:525
+msgid "Price"
+msgstr "السعر"
+
+#: ../admin/post_type_course.php:701
+msgid "Paypal Email"
+msgstr "باي بال البريد الإلكتروني"
+
+#: ../admin/post_type_course.php:705
+msgid ""
+"Please enter your paypal bussiness email for individual Course. If you dont "
+"enter paypal email here. You must enter paypal email at plugin settings that "
+"will be used for default for all payment."
+msgstr ""
+"من فضلك ادخل بريدك الإلكتروني تجارية (سابقا) باي بال لل دورة على حدة. إذا "
+"كنت لا ادخل بريدك باي بال هنا . يجب إدخال البريد الإلكتروني باي بال في "
+"المساعد الإعدادات التي سيتم استخدامها ل الافتراضية لكافة الدفع."
+
+#: ../admin/post_type_course.php:711
+msgid "Custom Payment Url"
+msgstr "العرف الدفع رابط"
+
+#: ../admin/post_type_course.php:716
+msgid ""
+"You can enter custom payment Url where user can pay course price. And you "
+"have to enter the member data in members section after payment."
+msgstr ""
+"يمكنك إدخال عنوان الموقع الدفع مخصصة حيث يمكن للمستخدم دفع الثمن بالطبع . "
+"وكان لديك لإدخال البيانات عضو في أعضاء الفرع بعد الدفع."
+
+#: ../admin/post_type_course.php:722
+msgid "Select Product"
+msgstr "حدد المنتج"
+
+#: ../admin/post_type_course.php:739
+msgid "Please set Course at product page."
+msgstr "الرجاء ضبط دورة في صفحة المنتج."
+
+#: ../admin/post_type_course.php:768
+msgid "Woocommerce plugin is required for this option. Please Install Woocommerce."
+msgstr "مطلوب المساعد Woocommerce لهذا الخيار. الرجاء تثبيت Woocommerce ."
+
+#: ../admin/post_type_course.php:776
+msgid "Curriculums Tabs on/off"
+msgstr "المناهج علامات على / قبالة"
+
+#: ../admin/post_type_course.php:787
+msgid "Course Color"
+msgstr "بالطبع اللون"
+
+#: ../admin/post_type_course.php:816
+msgid "Add Unit"
+msgstr "إضافة وحدة"
+
+#: ../admin/post_type_course.php:818
+msgid "Add Unit Title"
+msgstr "إضافة وحدة العنوان"
+
+#: ../admin/post_type_course.php:819
+msgid "Add Curriculum"
+msgstr "إضافة المناهج"
+
+#: ../admin/post_type_course.php:821 ../admin/post_type_quiz.php:41
+msgid "Add Quiz"
+msgstr "إضافة مسابقة"
+
+#: ../admin/post_type_course.php:829 ../admin/post_type_course.php:1503
+msgid "Course Members Settings"
+msgstr "إعدادات بالطبع الأعضاء"
+
+#: ../admin/post_type_course.php:834
+msgid "Unit Title"
+msgstr "وحدة العنوان"
+
+#: ../admin/post_type_course.php:851 ../admin/post_type_course.php:1772
+msgid "Assignment Settings"
+msgstr "إعدادات مهمة"
+
+#: ../admin/post_type_course.php:857 ../admin/post_type_course.php:1779 ..
+#: include/edulms-assignments/single-assignments.php:198
+msgid "Assignment Title"
+msgstr "احالة العنوان"
+
+#: ../admin/post_type_course.php:871
+msgid "Upload File Format:"
+msgstr "تحميل تنسيق الملف:"
+
+#: ../admin/post_type_course.php:881 ../admin/post_type_course.php:1820
+msgid "Select the Assignment type in which format user upload his assignment."
+msgstr "حدد نوع المهمة التي المستعمل شكل تحميل مهمته ."
+
+#: ../admin/post_type_course.php:887
+msgid "File Upload Size:"
+msgstr "رفع ملف الحجم:"
+
+#: ../admin/post_type_course.php:892 ../admin/post_type_course.php:1831
+msgid "Upload File Size in MB"
+msgstr "تحميل حجم الملف في MB"
+
+#: ../admin/post_type_course.php:898
+msgid "Passing Marks"
+msgstr "يمر ماركس"
+
+#: ../admin/post_type_course.php:910 ../admin/post_type_course.php:1849
+msgid "Total Marks"
+msgstr "مجموع الدرجات"
+
+#: ../admin/post_type_course.php:919 ../admin/post_type_course.php:979
+msgid "Extra Retakes"
+msgstr "يستعيد إضافية"
+
+#: ../admin/post_type_course.php:939 ../admin/post_type_course.php:1688
+msgid "Quiz Settings"
+msgstr "إعدادات مسابقة"
+
+#: ../admin/post_type_course.php:946
+msgid "Select Quiz"
+msgstr "حدد مسابقة"
+
+#: ../admin/post_type_course.php:968 ../admin/post_type_course.php:1718 ..
+#: admin/post_type_course.php:1837
+msgid "Passing Marks(%)"
+msgstr "علامات يمر (٪ )"
+
+#: ../admin/post_type_course.php:1000 ../admin/post_type_course.php:1892
+msgid "Curriculum Settings"
+msgstr "إعدادات المناهج الدراسية"
+
+#: ../admin/post_type_course.php:1006
+msgid "Select Curriculum"
+msgstr "حدد المناهج"
+
+#: ../admin/post_type_course.php:1036
+msgid "Certificates Settings"
+msgstr "إعدادات الشهادات"
+
+#: ../admin/post_type_course.php:1041
+msgid "Select Certificate"
+msgstr "حدد شهادة"
+
+#: ../admin/post_type_course.php:1071 ../admin/post_type_course.php:1441 ..
+#: include/edulms-courses/course-functions - Copy.php:1941 ../include/edulms-
+#: courses/course-functions.php:1944 ../include/edulms-settings/settings.php:496 .
+#: ./include/edulms-settings/settings.php:586
+msgid "Title"
+msgstr "عنوان"
+
+#: ../admin/post_type_course.php:1072 ../admin/post_type_course.php:1444 ..
+#: admin/post_type_quiz.php:537 ../include/edulms-settings/settings.php:558
+msgid "Actions"
+msgstr "تطبيقات"
+
+#: ../admin/post_type_course.php:1427 ../admin/post_type_course.php:1428
+msgid "Add Members"
+msgstr "إضافة الأعضاء"
+
+#: ../admin/post_type_course.php:1442 ../admin/post_type_course.php:1553 ..
+#: include/edulms-courses/course-functions - Copy.php:527 ../include/edulms-
+#: courses/course-functions.php:527 ../include/edulms-settings/settings.php:272
+msgid "Order Id"
+msgstr "رقم التعريف الخاص بالطلب"
+
+#: ../admin/post_type_course.php:1443 ../include/edulms-courses/course-functions -
+#: Copy.php:559 ../include/edulms-courses/course-functions.php:559 ..
+#: include/edulms-settings/settings.php:271
+msgid "Transaction Id"
+msgstr "عملية معرف"
+
+#: ../admin/post_type_course.php:1532 ../include/edulms-faqs/post_type_faqs.php:
+#: 106 ../include/edulms-login/login-forms.php:187 ../include/edulms-login/login-
+#: forms.php:187 ../include/edulms-login/login-forms.php:187
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+#: ../admin/post_type_course.php:1559 ../include/edulms-courses/course-functions -
+#: Copy.php:535 ../include/edulms-courses/course-functions.php:535
+msgid "Course Price"
+msgstr "بالطبع الأسعار"
+
+#: ../admin/post_type_course.php:1565 ../include/edulms-courses/course-functions -
+#: Copy.php:543 ../include/edulms-courses/course-functions.php:543
+msgid "Registeration Date"
+msgstr "سجل لل تاريخ"
+
+#: ../admin/post_type_course.php:1572 ../include/edulms-courses/course-functions -
+#: Copy.php:551 ../include/edulms-courses/course-functions.php:551
+msgid "Expiry Date"
+msgstr "تاريخ انتهاء الصلاحية"
+
+#: ../admin/post_type_course.php:1579 ../include/edulms-courses/course-functions -
+#: Copy.php:568 ../include/edulms-courses/course-functions.php:568
+msgid "Result"
+msgstr "نتيجة"
+
+#: ../admin/post_type_course.php:1585 ../include/edulms-assignments/assignment-
+#: functions.php:319 ../include/edulms-courses/course-functions - Copy.php:576 ..
+#: include/edulms-courses/course-functions.php:576 ../include/edulms-quiz/quiz-
+#: functions.php:553 ../include/edulms-quiz/quiz-functions.php:713 ..
+#: include/edulms-quiz/quiz-functions.php:2269 ../include/edulms-quiz/quiz-
+#: functions.php:2428 ../include/edulms-quiz/quiz-functions.php:2878 ..
+#: include/edulms-settings/reports-functions.php:305 ../include/edulms-
+#: settings/reports-functions.php:853 ../include/edulms-settings/reports-
+#: functions.php:981 ../include/template/quiz_free-page.php:324 ..
+#: include/template/quiz_free-page.php:485
+msgid "Remarks"
+msgstr "ملاحظات"
+
+#: ../admin/post_type_course.php:1592 ../include/edulms-courses/course-functions -
+#: Copy.php:584 ../include/edulms-courses/course-functions.php:584
+msgid "Payment Method Title"
+msgstr "طريقة الدفع العنوان"
+
+#: ../admin/post_type_course.php:1598 ../include/edulms-courses/course-functions -
+#: Copy.php:592 ../include/edulms-courses/course-functions.php:592
+msgid "Payment Status"
+msgstr "حالة السداد"
+
+#: ../admin/post_type_course.php:1601 ../admin/post_type_course.php:1618 ..
+#: include/edulms-assignments/single-assignments.php:165 ../include/edulms-
+#: courses/course-functions - Copy.php:596 ../include/edulms-courses/course-
+#: functions.php:596
+msgid "Completed"
+msgstr "الانتهاء"
+
+#: ../admin/post_type_course.php:1602 ../admin/post_type_course.php:1616 ..
+#: include/edulms-courses/course-functions - Copy.php:597 ../include/edulms-
+#: courses/course-functions - Copy.php:1219 ../include/edulms-courses/course-
+#: functions.php:597 ../include/edulms-courses/course-functions.php:1222 ..
+#: include/edulms-quiz/quiz-functions.php:1479 ../include/edulms-
+#: settings/reports-functions.php:33 ../include/edulms-settings/reports-functions.
+#: php:276 ../include/edulms-settings/reports-functions.php:749
+msgid "Pending"
+msgstr "ريثما"
+
+#: ../admin/post_type_course.php:1603 ../include/edulms-courses/course-functions -
+#: Copy.php:598 ../include/edulms-courses/course-functions.php:598
+msgid "Processing"
+msgstr "معالجة"
+
+#: ../admin/post_type_course.php:1604 ../include/edulms-courses/course-functions -
+#: Copy.php:599 ../include/edulms-courses/course-functions.php:599
+msgid "On-Hold"
+msgstr "في الانتظار"
+
+#: ../admin/post_type_course.php:1605 ../include/edulms-courses/course-functions -
+#: Copy.php:600 ../include/edulms-courses/course-functions.php:600
+msgid "Cancelled"
+msgstr "إلغاء"
+
+#: ../admin/post_type_course.php:1606 ../include/edulms-courses/course-functions -
+#: Copy.php:601 ../include/edulms-courses/course-functions.php:601
+msgid "Refunded"
+msgstr "ردها"
+
+#: ../admin/post_type_course.php:1607 ../include/edulms-courses/course-functions -
+#: Copy.php:602 ../include/edulms-courses/course-functions.php:602
+msgid "Failed"
+msgstr "فشل"
+
+#: ../admin/post_type_course.php:1612 ../include/edulms-courses/course-functions -
+#: Copy.php:608 ../include/edulms-courses/course-functions.php:608
+msgid "User Course Status"
+msgstr "العضو ملعب الحالة"
+
+#: ../admin/post_type_course.php:1615
+msgid "Approved"
+msgstr "وافق"
+
+#: ../admin/post_type_course.php:1617
+msgid "Disable"
+msgstr "تعطيل"
+
+#: ../admin/post_type_course.php:1619
+msgid "Expired"
+msgstr "انتهت"
+
+#: ../admin/post_type_course.php:1648
+msgid "Section Title Settings"
+msgstr "إعدادات القسم عنوان"
+
+#: ../admin/post_type_course.php:1654 ../include/edulms-courses/course-categories.
+#: php:98 ../include/edulms-courses/members.php:74
+msgid "Section Title"
+msgstr "القسم عنوان"
+
+#: ../admin/post_type_course.php:1658
+msgid "Put Section title"
+msgstr "وضع عنوان القسم"
+
+#: ../admin/post_type_course.php:1695
+msgid "Quiz Title"
+msgstr "مسابقة العنوان"
+
+#: ../admin/post_type_course.php:1730
+msgid "Number of Extra Quiz Retakes"
+msgstr "عدد إضافي مسابقة يستعيد"
+
+#: ../admin/post_type_course.php:1808
+msgid "Upload File Format"
+msgstr "تنسيق تحميل الملف"
+
+#: ../admin/post_type_course.php:1858
+msgid "Number of Extra Assignment Retakes"
+msgstr "عدد يستعيد تعيين اضافية"
+
+#: ../admin/post_type_course.php:1899
+msgid "Curriculum"
+msgstr "المناهج الدراسية"
+
+#: ../admin/post_type_course.php:1947
+msgid "Certificate Settings"
+msgstr "ضبط الشهادة"
+
+#: ../admin/post_type_course.php:1973
+msgid "Put Certificate"
+msgstr "وضع شهادة"
+
+#: ../admin/post_type_curriculums.php:95
+msgid "Curriculums Options"
+msgstr "خيارات التدريب"
+
+#: ../admin/post_type_curriculums.php:112
+msgid "Unit Type"
+msgstr "وحدة النوع"
+
+#: ../admin/post_type_quiz.php:38 ../admin/post_type_quiz.php:39 ..
+#: include/edulms-settings/settings.php:229
+msgid "Quiz"
+msgstr "مسابقة"
+
+#: ../admin/post_type_quiz.php:40
+msgctxt "Admin menu name"
+msgid "Quiz"
+msgstr "مسابقة"
+
+#: ../admin/post_type_quiz.php:42
+msgid "Add New Quiz"
+msgstr "إضافة جديد مسابقة"
+
+#: ../admin/post_type_quiz.php:44
+msgid "Edit Quiz"
+msgstr "تحرير مسابقة"
+
+#: ../admin/post_type_quiz.php:45
+msgid "New Quiz"
+msgstr "جديد مسابقة"
+
+#: ../admin/post_type_quiz.php:46 ../admin/post_type_quiz.php:47
+msgid "View Quiz"
+msgstr "عرض مسابقة"
+
+#: ../admin/post_type_quiz.php:48
+msgid "Search Quiz"
+msgstr "البحث مسابقة"
+
+#: ../admin/post_type_quiz.php:49
+msgid "No Quiz found"
+msgstr "لا توجد مسابقة"
+
+#: ../admin/post_type_quiz.php:50
+msgid "No Quiz found in trash"
+msgstr "لا توجد في سلة المهملات مسابقة"
+
+#: ../admin/post_type_quiz.php:51
+msgid "Parent Quiz"
+msgstr "مسابقة الأم"
+
+#: ../admin/post_type_quiz.php:53
+msgid "This is where you can add new Quiz."
+msgstr "هذا هو المكان الذي يمكنك إضافة مسابقة جديدة ."
+
+#: ../admin/post_type_quiz.php:85 ../admin/post_type_quiz.php:93
+msgid "Quiz Options"
+msgstr "خيارات مسابقة"
+
+#: ../admin/post_type_quiz.php:127
+msgid "Quiz instructions"
+msgstr "تعليمات الاختبار :"
+
+#: ../admin/post_type_quiz.php:135
+msgid "Message to display on Completion"
+msgstr "رسالة لعرضه على إتمام المهمة:"
+
+#: ../admin/post_type_quiz.php:143
+msgid "Number of questions to Answer"
+msgstr "عدد من الأسئلة للإجابة :"
+
+#: ../admin/post_type_quiz.php:153
+msgid "Auto Evaluate Results"
+msgstr "السيارات تقييم نتائج"
+
+#: ../admin/post_type_quiz.php:166
+msgid "Quiz Duration"
+msgstr "مسابقة المدة"
+
+#: ../admin/post_type_quiz.php:206
+msgid "Question Settings"
+msgstr "إعدادات السؤال"
+
+#: ../admin/post_type_quiz.php:212 ../admin/post_type_quiz.php:397 ..
+#: admin/post_type_quiz.php:536
+msgid "Question Title"
+msgstr "السؤال العنوان"
+
+#: ../admin/post_type_quiz.php:220 ../admin/post_type_quiz.php:405 ..
+#: include/edulms-quiz/quiz-functions.php:551 ../include/edulms-quiz/quiz-
+#: functions.php:2876 ../include/edulms-settings/reports-functions.php:58 ..
+#: include/edulms-settings/reports-functions.php:303 ..
+#: include/template/quiz_free-page.php:322
+msgid "Marks"
+msgstr "علامات"
+
+#: ../admin/post_type_quiz.php:228
+msgid "Single Answer Option"
+msgstr "إجابة واحدة فقط الخيار"
+
+#: ../admin/post_type_quiz.php:244 ../admin/post_type_quiz.php:413
+msgid "Answer Type"
+msgstr "الجواب نوع"
+
+#: ../admin/post_type_quiz.php:254 ../admin/post_type_quiz.php:462
+msgid "Answer Title 1"
+msgstr "الجواب العنوان 1"
+
+#: ../admin/post_type_quiz.php:261 ../admin/post_type_quiz.php:273
+msgid "check it if its correct"
+msgstr "التحقق من ذلك إذا كان من الصحيح"
+
+#: ../admin/post_type_quiz.php:266 ../admin/post_type_quiz.php:484
+msgid "Answer Title 2"
+msgstr "الجواب العنوان 2"
+
+#: ../admin/post_type_quiz.php:280 ../admin/post_type_quiz.php:320 ..
+#: admin/post_type_quiz.php:338
+msgid "Answer Title"
+msgstr "الجواب العنوان"
+
+#: ../admin/post_type_quiz.php:289 ../admin/post_type_quiz.php:428 ..
+#: admin/post_type_quiz.php:438
+msgid "Answer"
+msgstr "إجابة"
+
+#: ../admin/post_type_quiz.php:298 ../admin/post_type_quiz.php:448
+msgid "Correct Answer"
+msgstr "اجابة صحيحة"
+
+#: ../admin/post_type_quiz.php:302 ../include/edulms-quiz/quiz_with-login.php:231
+#: ../include/edulms-quiz/single-quiz.php:516 ../include/template/quiz_free-page.
+#: php:282
+msgid "True"
+msgstr "صحيح"
+
+#: ../admin/post_type_quiz.php:305 ../include/edulms-quiz/quiz_with-login.php:237
+#: ../include/edulms-quiz/single-quiz.php:522 ../include/template/quiz_free-page.
+#: php:288
+msgid "False"
+msgstr "خاطئة"
+
+#: ../admin/post_type_quiz.php:362
+msgid "Update Question"
+msgstr "تحديث سؤال"
+
+#: ../admin/post_type_quiz.php:418
+msgid "Select Option"
+msgstr "حدد الخيار"
+
+#: ../admin/post_type_quiz.php:419
+msgid "Multiple Choice"
+msgstr "الاختيار من متعدد"
+
+#: ../admin/post_type_quiz.php:420
+msgid "Large Text"
+msgstr "نص بحجم كبير"
+
+#: ../admin/post_type_quiz.php:472 ../admin/post_type_quiz.php:495
+msgid "Correct Answer?"
+msgstr "اجابة صحيحة؟"
+
+#: ../admin/post_type_quiz.php:479 ../admin/post_type_quiz.php:501 ..
+#: include/register-templates/templates/page_profile.php:1306
+msgid "Remove"
+msgstr "إزالة"
+
+#: ../admin/post_type_quiz.php:507
+msgid "Add Answer"
+msgstr "إضافة الإجابة"
+
+#: ../admin/post_type_quiz.php:515
+msgid "If you want to use single option check this box."
+msgstr "إذا كنت ترغب في استخدام الاختيار خيار واحد هذا المربع."
+
+#: ../admin/post_type_quiz.php:591
+msgid "Add Questions"
+msgstr "إضافة أسئلة"
+
+#: ../admin/post_type_reviews.php:7 ../admin/post_type_reviews.php:181 ..
+#: include/edulms-courses/course-functions - Copy.php:1685 ../include/edulms-
+#: courses/course-functions.php:1688
+msgid "Rating"
+msgstr "تصنيف"
+
+#: ../admin/post_type_reviews.php:113 ../include/edulms-courses/course-functions -
+#: Copy.php:739 ../include/edulms-courses/course-functions - Copy.php:1155 ..
+#: include/edulms-courses/course-functions.php:739 ../include/edulms-
+#: courses/course-functions.php:1158 ../include/edulms-courses/single-courses.php:
+#: 70 ../include/register-templates/templates/functions_profile.php:95 ..
+#: include/register-templates/templates/page_profile.php:803 ../include/register-
+#: templates/templates/page_profile.php:1294
+msgid "Reviews"
+msgstr "التعليقات"
+
+#: ../admin/post_type_reviews.php:155
+msgid "Reviews Options"
+msgstr "استعراض الخيارات"
+
+#: ../admin/post_type_reviews.php:172
+msgid "Select User"
+msgstr "حدد المستخدم"
+
+#: ../admin/post_type_reviews.php:173
+msgid "Select The User."
+msgstr "حدد المستخدم ."
+
+#: ../admin/post_type_reviews.php:182
+msgid "Select The Rating."
+msgstr "حدد التصنيف."
+
+#: ../admin/post_type_reviews.php:190 ../include/edulms-courses/course-functions -
+#: Copy.php:409 ../include/edulms-courses/course-functions.php:409 ..
+#: include/edulms-faqs/post_type_faqs.php:115 ../include/register-
+#: templates/templates/functions_profile.php:540
+msgid "Select Course"
+msgstr "اختر دورة"
+
+#: ../admin/post_type_reviews.php:191
+msgid "Select The Course."
+msgstr "حدد الدورة."
+
+#: ../include/edulms-assignments/assignment-functions.php:302 ../include/edulms-
+#: settings/reports-functions.php:964
+msgid "User Assignment"
+msgstr "تعيين العضو"
+
+#: ../include/edulms-assignments/assignment-functions.php:312
+msgid "Uploaded on"
+msgstr "حملت في"
+
+#: ../include/edulms-assignments/assignment-functions.php:323 ../include/edulms-
+#: settings/reports-functions.php:60 ../include/edulms-settings/reports-functions.
+#: php:306 ../include/edulms-settings/reports-functions.php:745 ../include/edulms-
+#: settings/reports-functions.php:985 ../include/edulms-settings/settings.php:688
+msgid "Review Status"
+msgstr "حالة المراجعة"
+
+#: ../include/edulms-assignments/assignment-functions.php:329 ../include/edulms-
+#: quiz/quiz-functions.php:552 ../include/edulms-quiz/quiz-functions.php:720 ..
+#: include/edulms-quiz/quiz-functions.php:1129 ../include/edulms-quiz/quiz-
+#: functions.php:2276 ../include/edulms-quiz/quiz-functions.php:2435 ..
+#: include/edulms-quiz/quiz-functions.php:2493 ../include/edulms-quiz/quiz-
+#: functions.php:2877 ../include/edulms-settings/reports-functions.php:59 ..
+#: include/edulms-settings/reports-functions.php:304 ../include/edulms-
+#: settings/reports-functions.php:863 ../include/edulms-settings/reports-
+#: functions.php:997 ../include/template/quiz_free-page.php:323 ..
+#: include/template/quiz_free-page.php:492
+msgid "Score"
+msgstr "أحرز هدفا"
+
+#: ../include/edulms-assignments/assignment-functions.php:337 ../include/edulms-
+#: settings/reports-functions.php:1006
+msgid "There are no questions against this Assignment"
+msgstr "لم تكن هناك أسئلة ضد هذا التعيين"
+
+#: ../include/edulms-assignments/single-assignments.php:96
+msgid "You need to login for this Assignment. "
+msgstr "تحتاج إلى تسجيل الدخول لهذه المهمة ."
+
+#: ../include/edulms-assignments/single-assignments.php:97 ../include/edulms-
+#: courses/course-functions - Copy.php:1529 ../include/edulms-courses/course-
+#: functions.php:1532 ../include/edulms-courses/course-search.php:31 ..
+#: include/edulms-login/login-forms.php:212 ../include/edulms-quiz/single-quiz.
+#: php:122 ../include/edulms-quiz/single-quiz.php:184
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: ../include/edulms-assignments/single-assignments.php:162
+msgid "Assignment Detail"
+msgstr "احالة التفاصيل"
+
+#: ../include/edulms-assignments/single-assignments.php:164 ../include/edulms-
+#: settings/reports-functions.php:51
+msgid "Assignment Name"
+msgstr "اسم التعيين"
+
+#: ../include/edulms-assignments/single-assignments.php:165 ../include/edulms-
+#: quiz/single-quiz.php:135
+msgid "Attempts: Allowed"
+msgstr "محاولات : بالحيوانات الأليفة"
+
+#: ../include/edulms-assignments/single-assignments.php:169 ../include/edulms-
+#: certificates/single-certificates.php:49 ../include/edulms-courses/single-
+#: courses.php:675 ../include/edulms-curriculums/single-cs-curriculums.php:109 ..
+#: include/edulms-quiz/single-quiz.php:308 ../include/register-
+#: templates/templates/page_profile.php:225
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: ../include/edulms-assignments/single-assignments.php:175
+msgid "Add Assignments"
+msgstr "إضافة تعيينات"
+
+#: ../include/edulms-assignments/single-assignments.php:202
+msgid "Assignment Description"
+msgstr "احالة الوصف"
+
+#: ../include/edulms-assignments/single-assignments.php:206
+msgid "Assignments Attachment"
+msgstr "تعيينات مرفق"
+
+#: ../include/edulms-assignments/single-assignments.php:208
+msgid "Please upload file with extension"
+msgstr "يرجى تحميل الملف مع التمديد"
+
+#: ../include/edulms-assignments/single-assignments.php:213 ../include/edulms-
+#: courses/course-functions - Copy.php:1705 ../include/edulms-courses/course-
+#: functions.php:1708
+msgid "Save changes"
+msgstr "حفظ التغيرات"
+
+#: ../include/edulms-assignments/single-assignments.php:225
+msgid "Please Subscribe to Course for Assignment"
+msgstr "يرجى الاشتراك في الدورة التدريبية لل تعيين"
+
+#: ../include/edulms-courses/course-categories.php:77
+msgid "Edit Courses Categories Options"
+msgstr "تحرير دورات الفئات الخيارات"
+
+#: ../include/edulms-courses/course-categories.php:105
+msgid "Categories Views"
+msgstr "فئات المشاهدات"
+
+#: ../include/edulms-courses/course-categories.php:109
+msgid "Grid Counter"
+msgstr "شبكة عداد"
+
+#: ../include/edulms-courses/course-categories.php:110
+msgid "List"
+msgstr "قائمة"
+
+#: ../include/edulms-courses/course-categories.php:111
+msgid "Grid"
+msgstr "شبكة"
+
+#: ../include/edulms-courses/course-categories.php:117
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: ../include/edulms-courses/course-categories.php:123 ../include/edulms-
+#: courses/course-categories.php:135
+msgid "Add a hex background colour code, If you want to override the default"
+msgstr "إضافة رمز لون الخلفية عرافة، إذا كنت ترغب في تجاوز الافتراضي"
+
+#: ../include/edulms-courses/course-categories.php:129
+msgid "Text Color"
+msgstr "لون الخط"
+
+#: ../include/edulms-courses/course-categories.php:141
+msgid "Select Categories"
+msgstr "حدد فئات"
+
+#: ../include/edulms-courses/course-categories.php:167
+msgid "Custom Id"
+msgstr "رقم مخصص"
+
+#: ../include/edulms-courses/course-categories.php:173
+msgid "Animation Class"
+msgstr "فئة الرسوم المتحركة"
+
+#: ../include/edulms-courses/course-categories.php:176
+msgid "Select Animation"
+msgstr "حدد الرسوم المتحركة"
+
+#: ../include/edulms-courses/course-categories.php:197 ../include/edulms-
+#: courses/course-functions - Copy.php:1950 ../include/edulms-courses/course-
+#: functions.php:1953
+msgid "Insert"
+msgstr "أدخل"
+
+#: ../include/edulms-courses/course-functions - Copy.php:85 ../include/edulms-
+#: courses/course-functions - Copy.php:161 ../include/edulms-courses/course-
+#: functions.php:85 ../include/edulms-courses/course-functions.php:161 ..
+#: include/register-templates/templates/page_add_courses.php:72
+msgid "Tags"
+msgstr "الكلمات"
+
+#: ../include/edulms-courses/course-functions - Copy.php:655 ../include/edulms-
+#: courses/course-functions.php:655 ../include/edulms-courses/single-courses.php:
+#: 782 ../include/edulms-courses/single-courses.php:820 ../include/edulms-
+#: settings/settings.php:275 ../include/edulms-settings/settings.php:442
+msgid "Students"
+msgstr "طلاب"
+
+#: ../include/edulms-courses/course-functions - Copy.php:701 ../include/edulms-
+#: courses/course-functions.php:701 ../include/edulms-courses/single-courses.php:
+#: 802
+msgid "Lessons"
+msgstr "الدروس"
+
+#: ../include/edulms-courses/course-functions - Copy.php:754 ../include/edulms-
+#: courses/course-functions.php:754
+msgid "Filter"
+msgstr "فلتر"
+
+#: ../include/edulms-courses/course-functions - Copy.php:754 ../include/edulms-
+#: courses/course-functions.php:754
+msgid "All Topics"
+msgstr "جميع المواضيع"
+
+#: ../include/edulms-courses/course-functions - Copy.php:757 ../include/edulms-
+#: courses/course-functions.php:757
+msgid "Found "
+msgstr "وجدت"
+
+#: ../include/edulms-courses/course-functions - Copy.php:759 ../include/edulms-
+#: courses/course-functions.php:759
+msgid "Filter by"
+msgstr "مرشح من قبل"
+
+#: ../include/edulms-courses/course-functions - Copy.php:762 ../include/edulms-
+#: courses/course-functions.php:762
+msgid "Date Published"
+msgstr "تاريخ النشر"
+
+#: ../include/edulms-courses/course-functions - Copy.php:763 ../include/edulms-
+#: courses/course-functions.php:763
+msgid "Alphabetical"
+msgstr "أبجدي"
+
+#: ../include/edulms-courses/course-functions - Copy.php:764 ../include/edulms-
+#: courses/course-functions.php:764
+msgid "Most Members"
+msgstr "معظم الأعضاء"
+
+#: ../include/edulms-courses/course-functions - Copy.php:765 ../include/edulms-
+#: courses/course-functions.php:765
+msgid "Highest Rated"
+msgstr "أعلى تصنيف"
+
+#: ../include/edulms-courses/course-functions - Copy.php:775 ../include/edulms-
+#: courses/course-functions.php:775
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+#: ../include/edulms-courses/course-functions - Copy.php:988 ../include/edulms-
+#: courses/course-functions.php:991
+msgid "Taught By"
+msgstr "تدرس من قبل"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1031 ../include/edulms-
+#: courses/course-functions.php:1034
+msgid "More From "
+msgstr "أكثر من"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1099 ../include/edulms-
+#: courses/course-functions.php:1102
+msgid "Download Videos"
+msgstr "تحميل فيديو"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1103 ../include/edulms-
+#: courses/course-functions.php:1106
+msgid "Buy Now"
+msgstr "اشتري الآن"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1165 ../include/edulms-
+#: courses/course-functions.php:1168
+msgid "View All Reviews"
+msgstr "عرض كل التعليقات"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1207 ../include/edulms-
+#: courses/course-functions.php:1210
+msgid "Your subscription is pending. It needs approval of admin"
+msgstr "اشتراكك معلقة. فإنه يحتاج موافقة المشرف"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1210 ../include/edulms-
+#: courses/course-functions.php:1213
+msgid "You subscribed this course"
+msgstr "كنت قد اشتركت هذه الدورة"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1222 ../include/edulms-
+#: courses/course-functions.php:1225
+msgid "Subscribed"
+msgstr "الاشتراك"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1250 ../include/edulms-
+#: courses/course-functions - Copy.php:1290 ../include/edulms-courses/course-
+#: functions - Copy.php:1342 ../include/edulms-courses/course-functions.php:1253 .
+#: ./include/edulms-courses/course-functions.php:1293 ../include/edulms-
+#: courses/course-functions.php:1345
+msgid "TAKE THIS COURSE"
+msgstr "اتخاذ هذا المسار"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1533 ../include/edulms-
+#: courses/course-functions.php:1536 ../include/edulms-courses/course-search.php:
+#: 35 ../include/register-templates/templates/user-courses.php:38
+msgid "Already Favourite"
+msgstr "المفضلة بالفعل"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1538 ../include/edulms-
+#: courses/course-functions.php:1541 ../include/edulms-courses/course-search.php:
+#: 40 ../include/register-templates/templates/user-courses.php:32 ..
+#: include/register-templates/templates/user-courses.php:43
+msgid "Add to Favourite"
+msgstr "المفضلة بالفعل"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1589 ../include/edulms-
+#: courses/course-functions.php:1592 ../include/edulms-courses/course-search.php:
+#: 92 ../include/edulms-courses/single-courses.php:850 ../include/register-
+#: templates/templates/page_profile.php:755 ../include/register-
+#: templates/templates/page_profile.php:958
+msgid "Apply Now"
+msgstr "قدم الآن"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1624 ../include/edulms-
+#: courses/course-functions - Copy.php:1625 ../include/edulms-courses/course-
+#: functions - Copy.php:1656 ../include/edulms-courses/course-functions - Copy.
+#: php:1714 ../include/edulms-courses/course-functions.php:1627 ../include/edulms-
+#: courses/course-functions.php:1628 ../include/edulms-courses/course-functions.
+#: php:1659 ../include/edulms-courses/course-functions.php:1717 ../include/edulms-
+#: courses/single-courses.php:656 ../include/edulms-faqs/faq_functions.php:18
+msgid "Add Reviews"
+msgstr "إضافة التعليقات"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1689 ../include/edulms-
+#: courses/course-functions.php:1692
+msgid "Subject"
+msgstr "موضوع"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1693 ../include/edulms-
+#: courses/course-functions.php:1696
+msgid "Reviews Description"
+msgstr "النقدية الوصف"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1695 ../include/edulms-
+#: courses/course-functions.php:1698
+msgid "Your Review Will be Posted publicly on the web."
+msgstr "اضافة تعليق سيتم نشر علنا على شبكة الإنترنت."
+
+#: ../include/edulms-courses/course-functions - Copy.php:1704 ../include/edulms-
+#: courses/course-functions.php:1707 ../include/edulms-faqs/faq_functions.php:49
+msgid "Close"
+msgstr "قريب"
+
+#: ../include/edulms-courses/course-functions - Copy.php:1936 ../include/edulms-
+#: courses/course-functions.php:1939
+msgid "Edit Course Search Options"
+msgstr "تحرير خيارات البحث ملعب"
+
+#: ../include/edulms-courses/members-listing.php:56 ../include/edulms-
+#: settings/reports-functions.php:30 ../include/edulms-settings/reports-functions.
+#: php:273
+msgid "All"
+msgstr "كل"
+
+#: ../include/edulms-courses/members-listing.php:164 ../include/edulms-
+#: courses/members-listing.php:308
+msgid "No User found."
+msgstr "لم يتم العثور على العضو ."
+
+#: ../include/edulms-courses/members.php:67
+msgid "Edit Members Options"
+msgstr "تحرير خيارات الأعضاء"
+
+#: ../include/edulms-courses/members.php:82
+msgid "Member Views"
+msgstr "المشاهدات الأعضاء"
+
+#: ../include/edulms-courses/members.php:86
+msgid "Number View"
+msgstr "عدد مشاهدة"
+
+#: ../include/edulms-courses/members.php:87
+msgid "Grid View"
+msgstr "عرض الشبكة"
+
+#: ../include/edulms-courses/members.php:93
+msgid "Member Roles"
+msgstr "أدوار الأعضاء"
+
+#: ../include/edulms-courses/members.php:113
+msgid "Filterable"
+msgstr "ترشيح"
+
+#: ../include/edulms-courses/members.php:117 ../include/edulms-courses/members.
+#: php:128 ../include/edulms-courses/members.php:139
+msgid "On"
+msgstr "على"
+
+#: ../include/edulms-courses/members.php:118 ../include/edulms-courses/members.
+#: php:129 ../include/edulms-courses/members.php:140
+msgid "Off"
+msgstr "بعيدا"
+
+#: ../include/edulms-courses/members.php:124
+msgid "Show All Tab"
+msgstr "عرض جميع تبويب"
+
+#: ../include/edulms-courses/members.php:135
+msgid "Profile's Link On/Off"
+msgstr "نبذة عن وصلة تشغيل / إيقاف"
+
+#: ../include/edulms-courses/members.php:146
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: ../include/edulms-courses/members.php:150
+msgid "Show Pagination"
+msgstr "مشاهدة ترقيم الصفحات"
+
+#: ../include/edulms-courses/members.php:151
+msgid "Single Page"
+msgstr "صفحة واحدة"
+
+#: ../include/edulms-courses/members.php:157
+msgid "No. of Members Per Page"
+msgstr "عدد الأعضاء بكل صفحة"
+
+#: ../include/edulms-courses/members.php:161
+msgid "To display all the records, leave this field blank."
+msgstr "لعرض كافة السجلات ، وترك هذا الحقل فارغا ."
+
+#: ../include/edulms-courses/single-courses.php:68
+msgid "Course Brief"
+msgstr "موجز بالطبع"
+
+#: ../include/edulms-courses/single-courses.php:69
+msgid "Events"
+msgstr "أحداث"
+
+#: ../include/edulms-courses/single-courses.php:72
+msgid "Course Units"
+msgstr "وحدات بالطبع"
+
+#: ../include/edulms-courses/single-courses.php:73
+msgid "FAQS"
+msgstr "أسئلة وأجوبة"
+
+#: ../include/edulms-courses/single-courses.php:302
+msgid "FAQs"
+msgstr "أسئلة وأجوبة"
+
+#: ../include/edulms-courses/single-courses.php:570 ../include/edulms-
+#: faqs/faq_functions.php:17
+msgid "Ask Question"
+msgstr "اسأل سؤالا"
+
+#: ../include/edulms-courses/single-courses.php:770
+msgid "REVIEWS"
+msgstr "استعراضات"
+
+#: ../include/edulms-curriculums/single-cs-curriculums.php:30
+msgid "Course curriculum"
+msgstr "المنهاج الدراسي للدورة"
+
+#: ../include/edulms-curriculums/single-cs-curriculums.php:142
+msgid "Mark Read"
+msgstr "الأقسام مقروءة"
+
+#: ../include/edulms-curriculums/single-cs-curriculums.php:154
+msgid "Please Subscribe to Course for curriculums"
+msgstr "يرجى الاشتراك في الدورة التدريبية لل مناهج"
+
+#: ../include/edulms-faqs/faq_functions.php:27
+msgid "Add Faq Question"
+msgstr "إضافة أسئلة وأجوبة السؤال"
+
+#: ../include/edulms-faqs/faq_functions.php:35 ../include/edulms-
+#: settings/settings.php:557 ../include/register-templates/templates/page_profile.
+#: php:339
+msgid "Name"
+msgstr "اسم"
+
+#: ../include/edulms-faqs/faq_functions.php:39 ../include/edulms-login/login-
+#: forms.php:191 ../include/edulms-login/login-forms.php:191 ../include/edulms-
+#: login/login-forms.php:191 ../include/edulms-settings/reports-functions.php:54 .
+#: ./include/edulms-settings/reports-functions.php:298 ../include/register-
+#: templates/templates/page_profile.php:344
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../include/edulms-faqs/faq_functions.php:43 ../include/edulms-quiz/single-quiz.
+#: php:615
+msgid "Question"
+msgstr "سؤال"
+
+#: ../include/edulms-faqs/faq_functions.php:50
+msgid "Submit"
+msgstr "عرض"
+
+#: ../include/edulms-faqs/post_type_faqs.php:70
+msgid "Faqs Options"
+msgstr "خيارات أسئلة وأجوبة"
+
+#: ../include/edulms-faqs/post_type_faqs.php:97
+msgid "User Email"
+msgstr "العضو مراسلة"
+
+#: ../include/edulms-faqs/post_type_faqs.php:142
+msgid "Email Subject"
+msgstr "موضوع البريد الإلكتروني"
+
+#: ../include/edulms-faqs/post_type_faqs.php:148
+msgid "Email Message"
+msgstr "البريد الإلكتروني رسالة"
+
+#: ../include/edulms-faqs/post_type_faqs.php:151
+msgid "Send Mail"
+msgstr "إرسال بريد"
+
+#: ../include/edulms-login/login-forms.php:55
+msgid "Sign in with Social Account"
+msgstr "تسجيل الدخول باستخدام حساب الاجتماعي"
+
+#: ../include/edulms-login/login-forms.php:144
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+#: ../include/edulms-login/login-forms.php:150 ../include/edulms-login/login-
+#: forms.php:150 ../include/edulms-login/login-forms.php:150 ../include/edulms-
+#: settings/reports-functions.php:53 ../include/edulms-settings/reports-functions.
+#: php:297
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: ../include/edulms-login/login-forms.php:161 ../include/edulms-login/login-
+#: forms.php:260
+msgid "Remember me"
+msgstr "تذكرني"
+
+#: ../include/edulms-login/login-forms.php:165 ../include/edulms-login/login-
+#: forms.php:263
+msgid "login"
+msgstr "تسجيل الدخول"
+
+#: ../include/edulms-login/login-forms.php:172 ../include/edulms-login/login-
+#: forms.php:270
+msgid "Forget Password?"
+msgstr "نسيت كلمة المرور ؟"
+
+#: ../include/edulms-login/login-forms.php:182
+msgid "Sign Up"
+msgstr "سجل"
+
+#: ../include/edulms-login/login-forms.php:197
+msgid "Register Now"
+msgstr "سجل الان"
+
+#: ../include/edulms-login/login-forms.php:211
+msgid "Not a Member ?"
+msgstr "ليس عضوا؟"
+
+#: ../include/edulms-login/login-forms.php:211
+msgid "Signup Now"
+msgstr "أفتح حساب الأن"
+
+#: ../include/edulms-login/login-forms.php:212
+msgid "Already have an account?"
+msgstr "لديك حساب بالفعل ؟"
+
+#: ../include/edulms-login/login-forms.php:244
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+#: ../include/edulms-login/login-functions.php:34
+msgid "User name should not be empty."
+msgstr "لا ينبغي أن يكون اسم المستخدم فارغا."
+
+#: ../include/edulms-login/login-functions.php:37
+msgid "Password should not be empty."
+msgstr "لا ينبغي أن تكون كلمة المرور فارغة ."
+
+#: ../include/edulms-login/login-functions.php:42
+msgid "Wrong username or password."
+msgstr "اسم المستخدم غير صحيح أو كلمة المرور."
+
+#: ../include/edulms-login/login-functions.php:44
+msgid "Login Successfully..."
+msgstr "تسجيل الدخول بنجاح ..."
+
+#: ../include/edulms-login/shortcodes.php:34
+msgid "User Login "
+msgstr "دخول المستخدم"
+
+#: ../include/edulms-login/cs-social-login/cs_social_login.php:316
+#, php-format
+msgid "Something went wrong: %s"
+msgstr "حدث خطأ ما :٪ الصورة"
+
+#: ../include/edulms-login/cs-social-login/google/cs-google-connect.php:169
+msgid ""
+"This Google profile is already linked with other account. Linking process "
+"failed!"
+msgstr "ويرتبط هذا الملف جوجل بالفعل مع حساب آخر . عملية ربط فشل !"
+
+#: ../include/edulms-login/cs-social-login/google/cs-google-connect.php:201 ..
+#: include/edulms-login/cs-social-login/google/cs-google-connect.php:209 ..
+#: include/register-templates/templates/functions_profile.php:633 ..
+#: include/register-templates/templates/functions_profile.php:641
+#, php-format
+msgid "Username: %s"
+msgstr "اسم المستخدم :٪ الصورة"
+
+#: ../include/edulms-login/cs-social-login/google/cs-google-connect.php:202 ..
+#: include/register-templates/templates/functions_profile.php:634
+#, php-format
+msgid "E-mail: %s"
+msgstr "البريد الإلكتروني :٪ الصورة"
+
+#: ../include/edulms-login/cs-social-login/google/cs-google-connect.php:204 ..
+#: include/register-templates/templates/functions_profile.php:636
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[٪ الصورة ] تسجيل عضو جديد"
+
+#: ../include/edulms-login/cs-social-login/google/cs-google-connect.php:210 ..
+#: include/register-templates/templates/functions_profile.php:642
+#, php-format
+msgid "Password: %s"
+msgstr "كلمة السر: ٪ الصورة"
+
+#: ../include/edulms-login/cs-social-login/google/cs-google-connect.php:213 ..
+#: include/register-templates/templates/functions_profile.php:645
+#, php-format
+msgid "[%s] Your username and password"
+msgstr "[٪ الصورة ] لديك اسم المستخدم وكلمة المرور"
+
+#: ../include/edulms-quiz/quiz-functions.php:545 ../include/edulms-
+#: settings/reports-functions.php:270 ../include/template/quiz_free-page.php:316
+msgid "Quiz Results"
+msgstr "مسابقة نتائج"
+
+#: ../include/edulms-quiz/quiz-functions.php:548 ../include/edulms-
+#: settings/reports-functions.php:295 ../include/template/quiz_free-page.php:319
+msgid "Quiz Name"
+msgstr "اسم مسابقة"
+
+#: ../include/edulms-quiz/quiz-functions.php:549 ../include/edulms-quiz/quiz-
+#: functions.php:2874 ../include/edulms-settings/reports-functions.php:52 ..
+#: include/edulms-settings/reports-functions.php:296 ..
+#: include/template/quiz_free-page.php:320
+msgid "Submission"
+msgstr "تسليم"
+
+#: ../include/edulms-quiz/quiz-functions.php:550 ../include/edulms-
+#: settings/reports-functions.php:302 ../include/template/quiz_free-page.php:321
+msgid "Q-Taken"
+msgstr "Q - المحصلة"
+
+#: ../include/edulms-quiz/quiz-functions.php:743 ../include/edulms-quiz/quiz-
+#: functions.php:2299 ../include/edulms-quiz/quiz-functions.php:2459 ..
+#: include/edulms-settings/reports-functions.php:885 ..
+#: include/template/quiz_free-page.php:515
+msgid "There are no questions against this quiz"
+msgstr "لم تكن هناك أسئلة ضد هذا الاختبار"
+
+#: ../include/edulms-quiz/quiz-functions.php:757 ../include/register-
+#: templates/templates/page_courses.php:188 ../include/template/quiz_free-page.
+#: php:529
+msgid "There are no records avaialble"
+msgstr "لا توجد سجلات متوافر"
+
+#: ../include/edulms-quiz/quiz-functions.php:1126 ../include/edulms-quiz/quiz-
+#: functions.php:2490
+msgid "Quiz and Assignments"
+msgstr "مسابقة و الواجبات"
+
+#: ../include/edulms-quiz/quiz-functions.php:1127 ../include/edulms-quiz/quiz-
+#: functions.php:1371 ../include/edulms-quiz/quiz-functions.php:1397 ..
+#: include/edulms-quiz/quiz-functions.php:2491 ../include/edulms-
+#: settings/reports-functions.php:61 ../include/edulms-settings/reports-functions.
+#: php:307
+msgid "Attempts"
+msgstr "محاولات"
+
+#: ../include/edulms-quiz/quiz-functions.php:1128
+msgid "Required (%)"
+msgstr "مطلوب (٪ )"
+
+#: ../include/edulms-quiz/quiz-functions.php:1130 ../include/edulms-quiz/quiz-
+#: functions.php:2494
+msgid "Review"
+msgstr "مراجعة"
+
+#: ../include/edulms-quiz/quiz-functions.php:1224 ../include/edulms-quiz/quiz-
+#: functions.php:1370
+msgid "Quiz:"
+msgstr "مسابقة :"
+
+#: ../include/edulms-quiz/quiz-functions.php:1331
+msgid "Assignment:"
+msgstr "مهمة:"
+
+#: ../include/edulms-quiz/quiz-functions.php:1374 ../include/edulms-quiz/quiz-
+#: functions.php:1400 ../include/edulms-settings/reports-functions.php:34 ..
+#: include/edulms-settings/reports-functions.php:277 ../include/edulms-
+#: settings/reports-functions.php:750
+msgid "Remaining"
+msgstr "المتبقية"
+
+#: ../include/edulms-quiz/quiz-functions.php:1432
+msgid "Required Passing %"
+msgstr "مطلوب ٪ اجتياز"
+
+#: ../include/edulms-quiz/quiz-functions.php:1437
+msgid "Obtained Marks %"
+msgstr "حصلت ماركس ٪"
+
+#: ../include/edulms-quiz/quiz-functions.php:1442 ../include/edulms-quiz/quiz-
+#: functions.php:2763 ../include/register-templates/templates/page_courses.php:19
+#: ../include/register-templates/templates/page_profile.php:526
+msgid "Status"
+msgstr "حالة"
+
+#: ../include/edulms-quiz/quiz-functions.php:1465 ../include/edulms-quiz/quiz-
+#: functions.php:1470
+msgid "Complete"
+msgstr "كامل"
+
+#: ../include/edulms-quiz/quiz-functions.php:1476 ../include/edulms-quiz/quiz-
+#: functions.php:2801 ../include/edulms-quiz/quiz-functions.php:2804 ..
+#: include/edulms-settings/reports-functions.php:32 ../include/edulms-
+#: settings/reports-functions.php:275 ../include/edulms-settings/reports-
+#: functions.php:748
+msgid "Fail"
+msgstr "فشل"
+
+#: ../include/edulms-quiz/quiz-functions.php:1488 ../include/edulms-quiz/quiz-
+#: functions.php:2813 ../include/edulms-quiz/quiz-functions.php:2817
+msgid "There are no records available"
+msgstr "لا توجد سجلات المتاحة"
+
+#: ../include/edulms-quiz/quiz-functions.php:2286 ../include/edulms-quiz/quiz-
+#: functions.php:2445 ../include/template/quiz_free-page.php:501
+msgid "Correct"
+msgstr "صحيح"
+
+#: ../include/edulms-quiz/quiz-functions.php:2288 ../include/edulms-quiz/quiz-
+#: functions.php:2447 ../include/template/quiz_free-page.php:503
+msgid "Wrong"
+msgstr "خاطئ"
+
+#: ../include/edulms-quiz/quiz-functions.php:2290 ../include/edulms-quiz/quiz-
+#: functions.php:2449 ../include/template/quiz_free-page.php:505
+msgid "Chosen"
+msgstr "اختيار"
+
+#: ../include/edulms-quiz/quiz-functions.php:2492
+msgid "Required%"
+msgstr "٪ المطلوبة"
+
+#: ../include/edulms-quiz/quiz-functions.php:2753
+msgid "Required Passing"
+msgstr "تمرير المطلوبة"
+
+#: ../include/edulms-quiz/quiz-functions.php:2758
+msgid "Obtained Marks"
+msgstr "العلامات التي تم الحصول عليها"
+
+#: ../include/edulms-quiz/quiz-functions.php:2793
+msgid "Download Certificate"
+msgstr "تحميل الشهادة"
+
+#: ../include/edulms-quiz/quiz-functions.php:2834
+msgid "Quiz Results  "
+msgstr "مسابقة نتائج"
+
+#: ../include/edulms-quiz/quiz-functions.php:2870
+msgid "Quiz and Assignment Results"
+msgstr "مسابقة و إحالة نتائج"
+
+#: ../include/edulms-quiz/quiz-functions.php:2873
+msgid "Quiz/Assignments"
+msgstr "مسابقة / تعيينات"
+
+#: ../include/edulms-quiz/quiz-functions.php:3095
+msgid "(Free Quiz)"
+msgstr "( مسابقة الحرة)"
+
+#: ../include/edulms-quiz/quiz-functions.php:3200
+msgid "Assignment: "
+msgstr "مهمة:"
+
+#: ../include/edulms-quiz/quiz_with-login.php:255 ../include/edulms-quiz/single-
+#: quiz.php:541 ../include/template/quiz_free-page.php:307
+msgid "You get all your attempts of quiz."
+msgstr "يمكنك الحصول على كل ما تبذلونه من محاولات مسابقة ."
+
+#: ../include/edulms-quiz/single-quiz.php:121 ../include/edulms-quiz/single-quiz.
+#: php:183
+msgid "You need to login for this quiz. "
+msgstr "تحتاج إلى تسجيل الدخول ل هذا الاختبار."
+
+#: ../include/edulms-quiz/single-quiz.php:131
+msgid "Quiz Detail"
+msgstr "مسابقة التفاصيل"
+
+#: ../include/edulms-quiz/single-quiz.php:133
+msgid "Quiz Name:"
+msgstr "مسابقة الاسم:"
+
+#: ../include/edulms-quiz/single-quiz.php:134
+msgid "Time Allowed:"
+msgstr "الوقت المسموح به :"
+
+#: ../include/edulms-quiz/single-quiz.php:134
+msgid "Minutes"
+msgstr "دقيقة"
+
+#: ../include/edulms-quiz/single-quiz.php:135
+msgid "Completed "
+msgstr "الانتهاء"
+
+#: ../include/edulms-quiz/single-quiz.php:137
+msgid "Instructions"
+msgstr "تعليمات"
+
+#: ../include/edulms-quiz/single-quiz.php:546
+msgid "You can take quiz from Course page"
+msgstr "يمكنك أن تأخذ مسابقة من الصفحة دورة"
+
+#: ../include/edulms-quiz/single-quiz.php:550
+msgid "Please Subscribe to Course for Quiz"
+msgstr "يرجى الاشتراك في دورة ل مسابقة"
+
+#: ../include/edulms-quiz/single-quiz.php:565
+msgid "Time Left"
+msgstr "الوقت المتبقي"
+
+#: ../include/edulms-settings/reports-functions.php:27
+msgid "Assignments Results"
+msgstr "تعيينات نتائج"
+
+#: ../include/edulms-settings/reports-functions.php:31 ../include/edulms-
+#: settings/reports-functions.php:274 ../include/edulms-settings/reports-
+#: functions.php:747
+msgid "Pass"
+msgstr "ممر"
+
+#: ../include/edulms-settings/reports-functions.php:55 ../include/edulms-
+#: settings/reports-functions.php:299 ../include/edulms-settings/settings.php:404
+msgid "Instructor Name"
+msgstr "اسم المدرب"
+
+#: ../include/edulms-settings/reports-functions.php:56 ../include/edulms-
+#: settings/reports-functions.php:300
+msgid "ip Address"
+msgstr "عنوان بروتوكول الإنترنت"
+
+#: ../include/edulms-settings/reports-functions.php:57 ../include/edulms-
+#: settings/reports-functions.php:301
+msgid "Required"
+msgstr "مطلوب"
+
+#: ../include/edulms-settings/reports-functions.php:238
+msgid "Assignment Record Deleted"
+msgstr "احالة سجل محذوفة"
+
+#: ../include/edulms-settings/reports-functions.php:974
+msgid "Uploaded on:"
+msgstr "حملت في :"
+
+#: ../include/edulms-settings/settings.php:81 ../include/edulms-settings/settings.
+#: php:670
+msgid "Saving Course Options..."
+msgstr "توفير خيارات دراسية ..."
+
+#: ../include/edulms-settings/settings.php:91 ../include/edulms-settings/settings.
+#: php:680
+msgid "User Profile Page"
+msgstr "الملف الشخصي للمستخدم الصفحة"
+
+#: ../include/edulms-settings/settings.php:91 ../include/edulms-settings/settings.
+#: php:680
+msgid "Select page for user profile here"
+msgstr "اختر صفحة لل تعريف المستخدم هنا"
+
+#: ../include/edulms-settings/settings.php:100 ../include/edulms-
+#: settings/settings.php:705
+msgid "Currency"
+msgstr "عملة"
+
+#: ../include/edulms-settings/settings.php:100 ../include/edulms-
+#: settings/settings.php:705
+msgid "Set currency symbol like($,£,¥)"
+msgstr "تعيين رمز العملة مثل ($ ، جنيه استرليني، ين)"
+
+#: ../include/edulms-settings/settings.php:106 ../include/edulms-
+#: settings/settings.php:711
+msgid "Save Options"
+msgstr "حفظ الخيارات"
+
+#: ../include/edulms-settings/settings.php:152 ../include/edulms-
+#: settings/settings.php:164 ../include/edulms-settings/settings.php:177 ..
+#: include/edulms-settings/settings.php:196
+msgid "Total"
+msgstr "مجموع"
+
+#: ../include/edulms-settings/settings.php:177 ../include/edulms-
+#: settings/settings.php:443
+msgid "Earnings"
+msgstr "أرباح"
+
+#: ../include/edulms-settings/settings.php:196
+msgid "Instructors"
+msgstr "المدربين"
+
+#: ../include/edulms-settings/settings.php:222 ../include/edulms-
+#: settings/settings.php:250 ../include/register-
+#: templates/templates/functions_profile.php:37 ../include/register-
+#: templates/templates/functions_profile.php:53 ../include/register-
+#: templates/templates/page_profile.php:516
+msgid "Statement"
+msgstr "بيان"
+
+#: ../include/edulms-settings/settings.php:223
+msgid "Instructor"
+msgstr "معلم"
+
+#: ../include/edulms-settings/settings.php:224
+msgid "Course Revenue"
+msgstr "الإيرادات بالطبع"
+
+#: ../include/edulms-settings/settings.php:232
+msgid "General Options"
+msgstr "خيارات عامة"
+
+#: ../include/edulms-settings/settings.php:254
+msgid "Last 30 Days"
+msgstr "اخر 30 يوم"
+
+#: ../include/edulms-settings/settings.php:270
+msgid "Date / Time"
+msgstr "تاريخ / وقت"
+
+#: ../include/edulms-settings/settings.php:273
+msgid "Payment Method"
+msgstr "طريقة الدفع"
+
+#: ../include/edulms-settings/settings.php:274 ../include/edulms-
+#: settings/settings.php:440 ../include/register-templates/templates/page_courses.
+#: php:17 ../include/register-templates/templates/page_profile.php:521
+msgid "Course Name"
+msgstr "اسم المساق"
+
+#: ../include/edulms-settings/settings.php:276
+msgid "Amount"
+msgstr "كمية"
+
+#: ../include/edulms-settings/settings.php:405
+msgid "Instructor Id"
+msgstr "مدرب معرف"
+
+#: ../include/edulms-settings/settings.php:406
+msgid "Courses #"
+msgstr "دورات #"
+
+#: ../include/edulms-settings/settings.php:407
+msgid "Students #"
+msgstr "الطلاب #"
+
+#: ../include/edulms-settings/settings.php:436
+msgid "Course /Revenue"
+msgstr "بالطبع / الإيرادات"
+
+#: ../include/edulms-settings/settings.php:441
+msgid "Sales"
+msgstr "مبيعات"
+
+#: ../include/edulms-settings/settings.php:487
+msgid "Saving Badges..."
+msgstr "توفير شارات ..."
+
+#: ../include/edulms-settings/settings.php:500
+msgid "Please enter text for Badge"
+msgstr "يرجى إدخال نص ل شارة"
+
+#: ../include/edulms-settings/settings.php:506 ../include/edulms-
+#: settings/settings.php:556 ../include/edulms-settings/settings.php:594
+msgid "Short Text"
+msgstr "نص قصير"
+
+#: ../include/edulms-settings/settings.php:510 ../include/edulms-
+#: settings/settings.php:598
+msgid "Please enter Short Text"
+msgstr "الرجاء إدخال نص قصير"
+
+#: ../include/edulms-settings/settings.php:516 ../include/edulms-
+#: settings/settings.php:555 ../include/edulms-settings/settings.php:602
+msgid "Badge Image"
+msgstr "شارة صورة"
+
+#: ../include/edulms-settings/settings.php:548
+msgid "Already Added Badges"
+msgstr "شارات أضفت"
+
+#: ../include/edulms-settings/settings.php:590
+msgid "Please enter text for Badge Name"
+msgstr "يرجى إدخال نص ل اسم شارة"
+
+#: ../include/edulms-settings/settings.php:620
+msgid "Save Badges"
+msgstr "حفظ الشارات"
+
+#: ../include/edulms-settings/settings.php:688
+msgid "Select Review Status"
+msgstr "تحديد حالة المراجعة"
+
+#: ../include/register-templates/class-register-templates.php:24
+msgid "User Profile"
+msgstr "ملف تعريفي للمستخدم"
+
+#: ../include/register-templates/templates/functions_profile.php:24
+msgid "About Me"
+msgstr "عني"
+
+#: ../include/register-templates/templates/functions_profile.php:32
+msgid "My Courses"
+msgstr "بلدي المقررات"
+
+#: ../include/register-templates/templates/functions_profile.php:101 ..
+#: include/register-templates/templates/page_profile.php:1210
+msgid "Favorites"
+msgstr "المفضلة"
+
+#: ../include/register-templates/templates/functions_profile.php:106
+msgid "Profile Settings"
+msgstr "إعدادات الملف الشخصي"
+
+#: ../include/register-templates/templates/functions_profile.php:112
+msgid "Logout"
+msgstr "خروج"
+
+#: ../include/register-templates/templates/functions_profile.php:148
+#, php-format
+msgid "Upload Error: %s"
+msgstr "تحميل الخطأ: ٪ الصورة"
+
+#: ../include/register-templates/templates/functions_profile.php:416 ..
+#: include/register-templates/templates/page_profile.php:1060
+msgid "Gender"
+msgstr "جنس"
+
+#: ../include/register-templates/templates/functions_profile.php:432 ..
+#: include/register-templates/templates/page_profile.php:999
+msgid "Display Photo"
+msgstr "عرض صور"
+
+#: ../include/register-templates/templates/functions_profile.php:455
+msgid "Profile Public On/Off"
+msgstr "الشخصي على العام / إيقاف"
+
+#: ../include/register-templates/templates/functions_profile.php:463
+msgid "Contact Form On/Off"
+msgstr "نموذج الاتصال تشغيل / إيقاف"
+
+#: ../include/register-templates/templates/functions_profile.php:471
+msgid "User Badges"
+msgstr "شارات المستخدم"
+
+#: ../include/register-templates/templates/page_add_courses.php:9
+msgid "You are not authorised user."
+msgstr "كنت لا أذن المستخدم ."
+
+#: ../include/register-templates/templates/page_add_courses.php:22
+msgid "Thumbnail"
+msgstr "المصغرات"
+
+#: ../include/register-templates/templates/page_add_courses.php:27
+msgid "Your theme doesn't support featured image"
+msgstr "الموضوع الخاص بك لا يدعم صورة مميزة"
+
+#: ../include/register-templates/templates/page_add_courses.php:30
+msgid "Course title"
+msgstr "عنوان الدورة"
+
+#: ../include/register-templates/templates/page_add_courses.php:61
+msgid "Description"
+msgstr "وصف"
+
+#: ../include/register-templates/templates/page_courses.php:18
+msgid "Course instructor"
+msgstr "مدرس المقرر"
+
+#: ../include/register-templates/templates/page_courses.php:158
+msgid "Date"
+msgstr "تاريخ"
+
+#: ../include/register-templates/templates/page_profile.php:31
+msgid "You are not able to update profile setting from demo account."
+msgstr "لم تكن قادرا على تحديث وضع صورة من حساب تجريبي ."
+
+#: ../include/register-templates/templates/page_profile.php:38
+msgid "The passwords you entered do not match.  Your password was not updated."
+msgstr "كلمات السر التي أدخلتها لا تتطابق. لم يتم تحديث كلمة السر الخاصة بك ."
+
+#: ../include/register-templates/templates/page_profile.php:45 ..
+#: include/register-templates/templates/page_profile.php:253
+msgid "Please enter a valid email address."
+msgstr "يرجى إدخال عنوان بريد إلكتروني صالح."
+
+#: ../include/register-templates/templates/page_profile.php:248
+msgid "Please enter a username."
+msgstr "الرجاء إدخال اسم المستخدم."
+
+#: ../include/register-templates/templates/page_profile.php:249
+msgid "Please enter a phone number."
+msgstr "يرجى إدخال رقم الهاتف."
+
+#: ../include/register-templates/templates/page_profile.php:250
+msgid "Please enter a message."
+msgstr "الرجاء إدخال رسالة ."
+
+#: ../include/register-templates/templates/page_profile.php:252
+msgid "Please enter a email address."
+msgstr "يرجى إدخال عنوان البريد الإلكتروني."
+
+#: ../include/register-templates/templates/page_profile.php:293
+msgid "About"
+msgstr "حول"
+
+#: ../include/register-templates/templates/page_profile.php:331
+msgid "Contact"
+msgstr "اتصال"
+
+#: ../include/register-templates/templates/page_profile.php:350
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: ../include/register-templates/templates/page_profile.php:356
+msgid "Message"
+msgstr "رسالة"
+
+#: ../include/register-templates/templates/page_profile.php:439
+msgid "Passing Marks:"
+msgstr "يمر ماركس :"
+
+#: ../include/register-templates/templates/page_profile.php:439
+msgid "Total Marks:"
+msgstr "مجموع العلامات :"
+
+#: ../include/register-templates/templates/page_profile.php:491
+msgid "Certificate Code"
+msgstr "رمز الشهادة"
+
+#: ../include/register-templates/templates/page_profile.php:498
+msgid "No certificate Awarded to you."
+msgstr "لا شهادة تمنح لك."
+
+#: ../include/register-templates/templates/page_profile.php:522
+msgid "Start Date"
+msgstr "تاريخ البدء"
+
+#: ../include/register-templates/templates/page_profile.php:523
+msgid "Expiration"
+msgstr "انتهاء"
+
+#: ../include/register-templates/templates/page_profile.php:524
+msgid "Purchase Id"
+msgstr "شراء رقم"
+
+#: ../include/register-templates/templates/page_profile.php:618
+msgid "You are not subscribed to any course"
+msgstr "أنت لم تشترك في أي مسار"
+
+#: ../include/register-templates/templates/page_profile.php:979
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: ../include/register-templates/templates/page_profile.php:986
+msgid "You must be logged in to edit your profile."
+msgstr "يجب أن تكون مسجلا ل تعديل ملفك الشخصي."
+
+#: ../include/register-templates/templates/page_profile.php:992
+msgid "user profile update successfully"
+msgstr "المستخدم تحديث الملف الشخصي بنجاح"
+
+#: ../include/register-templates/templates/page_profile.php:1022
+msgid "Update Avatar"
+msgstr "تحديث الرمزية"
+
+#: ../include/register-templates/templates/page_profile.php:1040
+msgid ""
+"Update your avatar manually by uploading a picture from your "
+"computer/directory. If the avatar is not set manually, the default Gravatar "
+"will be the same as your login email/user account."
+msgstr ""
+"تحديث الصورة الرمزية الخاصة بك يدويا عن طريق تحميل الصورة من جهاز الكمبيوتر "
+"الخاص بك / الدليل. إذا لم يتم تعيين الرمزية يدويا ، فإن غرفتر الافتراضية "
+"تكون نفس تسجيل الدخول حساب البريد الإلكتروني / المستخدم الخاص بك."
+
+#: ../include/register-templates/templates/page_profile.php:1041
+msgid "Image file size limit: 1MB"
+msgstr "ملف الصورة بالحجم الحد: 1MB"
+
+#: ../include/register-templates/templates/page_profile.php:1042
+msgid "Recommended dimensions: 128x128"
+msgstr "الأبعاد الموصى بها: 128X128"
+
+#: ../include/register-templates/templates/page_profile.php:1043
+msgid "Recommended extensions: JPEG,PNG"
+msgstr "ملحقات الموصى بها: JPEG ، PNG"
+
+#: ../include/register-templates/templates/page_profile.php:1050
+msgid "About me"
+msgstr "عني"
+
+#: ../include/register-templates/templates/page_profile.php:1054
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#: ../include/register-templates/templates/page_profile.php:1071
+msgid "TagLine"
+msgstr "أكتب رسالتك"
+
+#: ../include/register-templates/templates/page_profile.php:1077
+msgid "Biography"
+msgstr "سيرة"
+
+#: ../include/register-templates/templates/page_profile.php:1083
+msgid "Public Profile"
+msgstr "ملفه الشخصي"
+
+#: ../include/register-templates/templates/page_profile.php:1093
+msgid "Contact Form"
+msgstr "نموذج الاتصال"
+
+#: ../include/register-templates/templates/page_profile.php:1104
+msgid "Contact Detail"
+msgstr "اتصل التفاصيل"
+
+#: ../include/register-templates/templates/page_profile.php:1108
+msgid "Mobile"
+msgstr "متحرك"
+
+#: ../include/register-templates/templates/page_profile.php:1114
+msgid "Landline"
+msgstr "الهاتف الثابت"
+
+#: ../include/register-templates/templates/page_profile.php:1120
+msgid "E-mail (required)"
+msgstr "البريد الإلكتروني (مطلوب )"
+
+#: ../include/register-templates/templates/page_profile.php:1127
+msgid "website"
+msgstr "الموقع"
+
+#: ../include/register-templates/templates/page_profile.php:1133
+msgid "Skype"
+msgstr "سكايب"
+
+#: ../include/register-templates/templates/page_profile.php:1140
+msgid "Social Media"
+msgstr "وسائل التواصل الاجتماعي"
+
+#: ../include/register-templates/templates/page_profile.php:1144
+msgid "Facebook"
+msgstr "الفيسبوك"
+
+#: ../include/register-templates/templates/page_profile.php:1150
+msgid "Twitter"
+msgstr "تغريد"
+
+#: ../include/register-templates/templates/page_profile.php:1156
+msgid "Linkedin"
+msgstr "ينكدين"
+
+#: ../include/register-templates/templates/page_profile.php:1162
+msgid "Pinterest"
+msgstr "بينتيريست"
+
+#: ../include/register-templates/templates/page_profile.php:1168
+msgid "Google Plus"
+msgstr "جوجل بلس"
+
+#: ../include/register-templates/templates/page_profile.php:1174
+msgid "Instagram"
+msgstr "إينستاجرام"
+
+#: ../include/register-templates/templates/page_profile.php:1181
+msgid "Password Update"
+msgstr "كلمة السر تحديث"
+
+#: ../include/register-templates/templates/page_profile.php:1185
+msgid "New Password"
+msgstr "كلمة سر جديدة"
+
+#: ../include/register-templates/templates/page_profile.php:1191
+msgid "Repeat Password"
+msgstr "كرر كلمة السر"
+
+#: ../include/register-templates/templates/page_profile.php:1194
+msgid ""
+"Enter same password in both fields. Use an uppercase letter and a number for "
+"stronger password."
+msgstr ""
+"كرر أدخل كلمة المرور نفسها في كل المجالات. استخدام حرف كبير وعدد ل كلمة أقوى "
+".السر"
+
+#: ../include/register-templates/templates/page_profile.php:1196
+msgid "Save"
+msgstr "حفظ"
+
+#: ../include/template/quiz_free-page.php:94
+msgid "Question Marks:"
+msgstr "علامات استفهام :"
+
+#: ../include/template/quiz_free-page.php:102
+msgid "Answers"
+msgstr "إجابات"
+
+#: ../include/template/quiz_free-page.php:116
+msgid "Obtained Marks:"
+msgstr "العلامات التي حصل عليها:"

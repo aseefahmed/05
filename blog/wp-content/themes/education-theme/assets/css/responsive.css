@@ -1,0 +1,699 @@
+/*============	Media 940Px Start ============ */
+@media (min-width: 991px) and (max-width: 1170px)  {
+/* Wrapper Boxed View */
+body .wrapper.wrapper_boxed{width: 100%!important;}
+.wrapper.wrapper_boxed #bs-example-navbar-collapse-1{padding: 0 5px 0 0;}
+.list_v1 .text-section{min-height: 210px;}
+.main-section .cs-list.cs-flat-view .text-section{width: 100%;}
+.cr-flat{width: 30%;}
+.main-section .courses .cr-flat a.custom-btn{padding:1em;}
+.courses a.custom-btn{margin-bottom: 15px;}
+.main-head .head-right {width:100%;}
+/*============ Event Star ============ */
+.main-section .event-info .countdown-row .countdown-amount { font-size: 20px; }
+.main-section .event-list .ev-left { width: 69%; }
+.main-section .event-list .ev-location {width:68%;}
+.main-section .event-list.cs-ev-timeline .ev-left{ width: 100%; }
+.main-section .cs-ev-timeline .ev-btn { margin-top: 15px; float: left; }
+.main-section .cs-blog.blog-small .blog-right { width: auto; }
+.main-section .cs-ev-plain .ev-btn {padding-top:1em;}
+/*============ widget slider Star ============ */
+.main-section .widget_slider .flexslider { width: 78%; }
+.main-section .twitter-section .widget_slider .flexslider{width: 78%; float: none; margin:0 auto;}
+.main-section .widget_slider .follow-on { width: 14%; }
+.main-section .cs-search-area form{width: 50%!important;}
+/*============ Cs Tabs Star ============ */
+.main-section .cs-tabs.nav_position_top  .nav-tabs li a { padding: 10px 20px; }
+/*============ Services classic Star ============ */
+.main-section article.cs-services.classic figure i:after { left: -142px; width: 136px;}
+.page-section .element-size-25:nth-child(1) article.cs-services.classic figure i:after, article.cs-services.classic.cs-first figure i:after { display: none;}
+/* CS Course Categories View */
+.main-section .cs_course_categories ul li { width: 33%; }
+.section-sidebar .cs_course_categories ul li { width: 100%;}
+/* CS Services View */
+.main-section article.cs-services.img-small figure i ~ figcaption { padding: 0px 0 0 85px;}
+.main-section article.cs-services.boxed { padding: 30px 10px;}
+/* Custom Btn View */
+.main-section .cs-list.list_v1 .text-section .custom-btn { position: relative !important;}
+/* Cs Flat View */
+.main-section .cs-flat-view .cr-flat .cs-add-wishlist { font-size: 9px; }
+/* Coureses View */
+.main-section .cs-list.list_v1 .text-section { min-height: 0px !important; }
+/* Cs List v3 Cs List v4 View */
+.main-section .cs-list.list_v3 .cs-cat-list, .main-section .cs-list.list_v4 .cs-cat-list { width: 60%; }
+/* Blog Medium  View */
+/*============	Course Start ============ */
+/* Flat View */
+.cs-flat-view .text-section { padding-right: 30px; }
+.main-section article.cs-modren-view .cs-cat-list { width: 58%; margin: 0 10px 8px 0; }
+.main-section .cs-cat-list li { margin: 0 15px 10px 0; }
+/*============	Course Start ============ */
+/*============ Footer Style ============ */
+.footer-mid-sec .user-signup  { width: 66%; }
+.footer-mid-sec .news-title { font-size: 11px; padding: 21px 15px 0 0; }
+/*============ Footer Style ============ */
+/*============ Courses Flat Style ============ */
+.courses .cr-flat a.custom-btn { padding: 1em 1em; }
+/*============ Courses Flat Style ============ */
+.main-section .event-list.cs-ev-grid .ev-left, .main-section .event-list.cs-ev-grid .ev-location { width: 100%;}
+.cs-table .event-info ul .event-time { float: left;}
+.filter-nav .cs-filter-menu li { margin-right: 25px; }
+/*============ Event ============ */
+.event-list .ev-inner:before { width: 24px; }
+.main-section .cs-ev-timeline { padding-left: 35px; }
+/*============ Event ============ */
+.main-section .cs-services.top.circle.img-small figure i ~ figcaption,
+.main-section .cs-services.top.rectangler.img-small figure i ~ figcaption { padding: 0; }
+.main-section .courses .cr-flat a.custom-btn { padding: 1em 1.3em; }
+.main-section .cs-list-view .cs-top-sec { width: 65%;}
+.main-section .course-detail .content_tag a { float: left; }
+.cs-header-add { width: 72%;}
+.main-section .actions .cell.csactn{width: 72%;}
+.main-section .actions .cell:nth-child(3){width: 28%;}
+article.cs-modren-view figure ~ .text-section{width:256px;}
+.main-section .cs-cat-list li {margin: 0 6px 0 0;}
+.main-head .navbar-nav {margin: 0 0 0 -20px;}
+.page-not-found .cs-search-area form {width:100%;}
+.main-section .cs-ev-listing .cstime {width: 42px; margin-right:10px;}
+}
+/*============	Media 768Px Start ============ */ 
+@media (min-width: 768px) and (max-width: 990px) {
+.main-section .page-content ~ .page-sidebar, .main-section .page-content, .footer-mid-sec .user-signup, .main-section .page-sidebar, .main-section .page-sidebar ~ .page-content,
+.main-section .page-content { width: 100% !important; }
+.main-section .page-content { padding: 0px;}
+.main-section aside .widget { width: 49%; padding: 0 15px; }
+#footer-sec .widget, .footer-mid-sec [class*="col-md"] { width: 50%; }
+.footer-nav ul li { margin: 0 8px 0 0; }
+.col-md-4, .col-md-3 { width: 50%; }
+.main-section .cs-blog.blog-medium .blog-bottom { margin-bottom: 10px; }
+.wrapper.wrapper_boxed #bs-example-navbar-collapse-1{padding: 0 5px 0 0;}
+.main-section .cs-flat-view .text-section{width: 70%;}
+.main-section .cs-flat-view .cr-flat{width: 40%;}
+/*============ Event Star ============ */
+.main-section .ev-location { width: 69%;}
+.main-section event-list.cs-ev-default .ev-location { width: 73%;}
+.main-section .event-list.cs-ev-modren .ev-location {width: 70%;}
+.main-section .event-list .ev-left { width: 73%; }
+.main-section .event-list.cs-ev-timeline .ev-left {width:67%;}
+.main-section .event-list .ev-text { padding: 0 0 1px 20px; }
+.main-section .event-list.cs-ev-listing .ev-text { padding: 20px; }
+.main-section .cs-ev-grid .ev-text { padding: 32px 30px 30px; }
+.main-section .event-info .countdown-row .countdown-amount { font-size: 20px; }
+/* TimeLine View */
+.main-section .cs-ev-timeline .ev-btn { float: left; margin-top: 15px; }
+.main-section .cs-ev-timeline  h2 a { width: 100%; float: left; }
+/*============ widget slider Star ============ */
+.main-section .widget_slider .follow-on { top: 48%; width: 30%; margin-top: -30px; }
+.main-section .widget_slider .flexslider { width: 100%; }
+.main-section  .twitter-section .slides .text{padding-left: 28%;}
+.main-section .actions .cell.csactn{width: 66%;}
+.main-section .actions .cell:nth-child(3){width: 32%;}
+.breadcrumb-sec {background-repeat: no-repeat!important; background-size: cover!important;}
+/*============ Table View  ============ */
+.main-section .table > thead > tr > th, .main-section .table > tbody > tr > th, .main-section .table > tfoot > tr > th, .main-section .table > thead > tr > td, 
+.main-section .table > tbody > tr > td, .main-section .table > tfoot > tr > td { padding: 12px 10px; }
+/*============ Services classic View  ============ */
+.main-section article.cs-services.classic figure i:after { left: -142px; width: 136px; }
+/* CS Services Rectangler View */
+.main-section article.cs-services.rectangler.img-medum figure img ~ figcaption { padding: 0px; margin-top: 15px; float: left; }
+/* CS Team View */
+.main-section .cs-team { margin: 0px;}
+/* CS Course Categories View */
+.main-section .cs_course_categories ul li { width: 50%;}
+/* CS Services View */
+.main-section article.cs-services.img-small figure i ~ figcaption { padding: 0px 0 0 85px; }
+.main-section .cs-services.center.classic.img-small figure i ~ figcaption {padding: 0!important;}
+.main-section article.cs-services.boxed { padding: 30px 10px;}
+/* Page Not Founf View */
+body .page-not-found { width: 70%; }
+/* Custom Btn View */
+.main-section .cs-list.list_v1 .text-section .custom-btn { position: relative !important;}
+/* Coureses View */
+.main-section .cs-list.list_v1 .text-section { min-height: 0px !important; }
+/* Blog Medium  View */
+.main-section .blog-medium.lg-thumb .bloginfo { padding: 0px 24px; width: 67%; float: left; }
+.main-section .col-md-12, .main-section .section-content { width: 100%; }
+.main-section .element-size-25 { width: 33%; }
+.main-section .element-size-75 { width: 67%; }
+.col-md-3 { width: 33.333%; }
+body .wrapper.wrapper_boxed{width: 100%!important;}
+.main-section .cs-course-search ul li{width: 27%; margin: 0 0 0px 0;}
+.main-section  .cs-course-search ul li:nth-child(4){width: 15%;}
+.main-section .cs-search-area form{width: 50%!important;}
+/*============ Header Style ============ */
+.main-head { position: static !important; }
+.top-strip { text-align: center; }
+.top-strip .strip-info, .top-strip .top-nav ul li,
+.top-strip .social-media a, .top-strip  .strip-listing, .top-strip .strip-listing > li, .top-strip .cs-right-sec { display: inline-block; float: none; }
+.top-strip .cs-right-sec { position: relative; width: 100%; z-index: 9999; }
+.strip-listing { margin: 0; }
+.top-nav, .social-media, .language-sec{ width: 100%; text-align: center; }
+.cs-right-sec .strip-listing, .cs-right-sec .social-media { line-height: 13px; text-align:center; }
+.top-strip .strip-listing > li { border: none; }
+.cs-right-sec .strip-listing > li:last-child { border-right: none; }
+.nav{ padding-left:10px; padding-right:10px;}
+.header_1 .nav {background-color:#fff;}
+.navigation{ float:inherit !important; }
+.navigation, .navigation ul li{  background:none !important; }
+.navigation ul li ul.dropdown-menu{ margin:0 !important; padding:0 0 0 30px !important; float:left; border:0 !important; box-shadow:none; background:none !important; }
+.navbar-nav .sub-menu .dropdown-menu li a{ display:inline-block; }
+.sub-menu .dropdown-menu{visibility:visible !important; opacity:1 !important; box-shadow:none !important; }
+.navbar-nav > li > .dropdown-menu, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu, .sub-menu .dropdown-menu, .mega-grid{ width:100%; position:relative !important; background:none !important; visibility:visible !important; opacity:1 !important; display:block !important; left:0; box-shadow:none; border:0;}
+.mega-grid{box-shadow:none !important;float:left; background:none !important;}
+.navbar-nav > li > .dropdown-menu > li, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu > li, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li{ padding:0 !important;}
+.mega-grid ul.dropdown-menu, .main-head .navigation ul.mega-grid > li{ width:100%; float:left;}
+.nicescroll-rails{ display:none;}
+.navbar-toggle.addclose {position: absolute;right: 30px;top: 0px;z-index: 110;padding: 3px 10px 4px 10px;}
+.navbar-toggle.addclose .icon-bar {display: none;}.navbar-toggle.addclose:before {content: "\f00d";font-family: FontAwesome;color: #777;font-size: 16px;}
+li.parentIcon > a:after {display: none;}
+body:hover .nicescroll-rails{ display:block;}
+#main-header .cs-search.cs-searchv2{ left: 50%; margin: 0 0 0 -120px; right: auto; top: 44px;}
+#main-header .head-right .cs-search.cs-searchv2{ left: 50%; margin: 0 0 0 0px; right: auto; top: 44px;}
+.navbar-default .navbar-toggle{ display:block !important;}
+.navbar-nav > li > .dropdown-menu > li, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu > li, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li{padding:0;}
+.collapse{ display:none;}.menuopen.navigation .navbar-collapse.collapse {display: block !important;}
+.dropdown-menu li:last-child{ border-bottom:0 !important;}
+.header_5 .navbar-header{ left: auto; right: 0; }
+.navigation .navbar-collapse.collapse { display:none !important;}
+.navigation .navbar-collapse.collapse.in{ display:block !important;}
+.navigation .navbar-collapse.in{ overflow-x:hidden !important; overflow-y:auto !important; }
+.head-right{ float:none; width:100%; padding:20px 0; overflow:hidden; }
+.cs-login-sec{padding:0 !important;}
+.header_2 .logo{ margin:23px 0 58px !important; }
+.header_3 .main-head .cs-login-sec { padding: 28px 12px 12px;}
+.header_3 .main-head .navbar-header { top: 14px;}
+.header_3 .navigation { padding: 80px 0 0 !important;}
+.header_3 .navbar-default .navbar-nav > .active > a:before,
+.header_3 .navbar-default .navbar-nav > li > a:before { bottom: 0 !important;}
+.navbar-default{ position:absolute !important;width: 95%;}
+.header-three.header_4 .navbar-default{ position:absolute !important;width: 90%;}
+.navbar-collapse{ max-height:300px; width:100%; background:#fff;}
+.navbar-toggle{ margin:4px 15px;}
+header .navigation ul ul > li > .dropdown-menu, .navigation ul li > .dropdown-menu {
+	-webkit-transform: translateY(0px) scale(1) !important;
+	   -moz-transform: translateY(0px) scale(1) !important;
+	    -ms-transform: translateY(0px) scale(1) !important;
+	     -o-transform: translateY(0px) scale(1) !important;
+	        transform: translateY(0px) scale(1) !important;
+}
+/*============ Header Style ============ */
+.tp-bullets{z-index: 996!important;}
+.header-absolute #main-header.header_7 {margin:0;}
+/*============	Course Start ============ */
+/* Big View */
+.main-section .cs-big-view figure { width: 100%; margin: 0px 0px 15px 0px; }
+.main-section .cs-big-view figure ~ .text-section, .main-section .cs-big-view .text-section { padding: 0px; }
+.main-section .cs-big-view .text-section { float: left; width: 100%; }
+/* Clasic View */
+.main-section .cs-list.list_v3 figure { margin: 0px 0px 15px 0px; float: left; width: 100%; height: 401px; }
+.main-section .cs-list.list_v3 figure img, .main-section article.cs-modren-view figure img { height: 100%; }
+.main-section .cs-list.list_v3 figure ~ .text-section, .main-section .cs-list.list_v3 .text-section { margin: 0px; }
+/* Flat View */
+.main-section .cr-flat, .main-section .cs-flat-view .text-section, .main-section .cr-flat figure { width: 100%; }
+.main-section .cr-flat { margin: 0px 0px 15px 0px; }
+/* Modren View */
+.main-section article.cs-modren-view .cs-cat-list { width: 65%; margin-bottom: 10px; }
+.main-section .cs-cat-list li { margin: 0px 20px 10px 0px; }
+.main-section article.cs-modren-view  a.custom-btn {padding: 1em 1em;}
+/* TimeLine View */
+.main-section .cs-list.list_v4 figure { width: 100%; margin: 0px 0px 15px 0px; }
+.main-section .cs-list.list_v4 figure ~ .text-section, .main-section .cs-list.list_v4 .text-section { float: left; width: 100%; padding: 0px; }
+.main-section .cs-list.list_v4 .custom-btn { margin: 0px; }
+.main-section .cs-list.list_v4 .text-section .seideleft { width: 100%; }
+/* List View */
+.main-section .cs-list-view figure { width: 100%; margin: 0px 0px 15px 0px; }
+.main-section .cs-list-view figure ~ .text-section, .main-section .cs-list-view .text-section { width: 100%; float: left; padding: 0px; }
+.main-section .cs-list-view .cs-top-sec { width: 65%; }
+.main-section .cs-list-view .cs-cat-list { margin: 0px; }
+.main-section .left_position, .listoption li { margin-bottom: 10px; }
+.main-section .cs-list.list_v1 .left_position, .main-section .cs-list.list_v1 .listoption li{margin-right: 0px;}
+.main-section .cs-list.list_v1 .cs-rating-desc{margin-left: 0px;}
+/*============	Course Start ============ */
+/*============	Course Detail Start ============ */
+.main-section .cs_assigment_tabs ul li { font-size: 11px; padding: 0 10px; }
+.main-section .cs_assigment_tabs ul li.active { padding: 5px 10px 2px; }
+.main-section .course-sidebar { width: 100%; }
+.main-section article.cs-modren-view figure { float: left; width: 100%; margin: 0 0 15px 0; }
+article.cs-modren-view figure ~ .text-section { padding-right: 0px; float: left; margin-right: 0px; width: 100% !important; }
+/*============	TypoGraphy Start ============ */
+.main-section .cs-tabs .nav-tabs li { width: 100%; margin: 0px; }
+.main-section .cs-tabs .nav-tabs > li.active > a { padding: 12px 30px; } .main-section .cs-tabs .nav-tabs li.active { top: auto; }
+.main-section .cs-tabs .nav-tabs li.active:before { display: none; }
+.main-section .cs-tabs .nav-tabs li { border-bottom: none; }
+.main-section .cs-tabs.nav_position_left .tab-content { width: 70%; }
+.main-section .cs-tabs.nav_position_left .nav-tabs { width: 30%; }
+.cs-tabs.nav_position_left .nav-tabs li a { font-size: 13px; padding: 12px 15px; }
+.main-section .cs-tabs .nav-tabs > li.active > a { padding: 12px 15px; }
+.main-section .cs-tabs.nav_position_left .nav-tabs li.active:before { display: block; }
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td { padding: 12px 10px; }
+/*============	Partner's Start ============ */
+.cs-partner ul li.col-md-2 { width: 33.333%; }
+/*============ Home Style ============ */
+.main-section .section-sidebar { width: 100%; }
+.main-section .register-page { width: 50%; }
+.main-section .courses .cr-flat a.custom-btn { float: left; }
+.main-section .event-list.cs-ev-grid .ev-left { width: 100%; }
+/*============ Event ============ */
+.event-list .ev-inner:before { width: 24px; }
+.main-section .cs-ev-timeline { padding-left: 35px; }
+.event-info .event-time { float: left; }
+/*============ Event ============ */
+.main-section .cs-services.top.circle.img-small figure i ~ figcaption,
+.main-section .cs-services.top.rectangler.img-small figure i ~ figcaption { padding: 0; }
+header .cs-login-sec .cs-signup { right: -240px; }
+.head-right .cs-login-sec .cs-signup { right: 0px; }
+.main-section .course-detail .content_tag a { float: left; }
+/*============	course sidebar Start ============ */
+.main-section .page-content .section-content ~ .course-sidebar { width: 34% !important; }
+.main-section .page-content ~ .page-sidebar .widget { width: 50%; padding: 0 15px; }
+.main-section .page-content .section-content ~ .course-sidebar .widget { width: 100% !important; }
+.cs-header-add { width: 60%; padding-top: 25px;} 
+	/*============	Menue Button Start ============ */
+.navbar-default .navbar-header > button {background-color: transparent; background-image: none; border: 1px solid #ddd; border-radius: 4px; float: right; margin-bottom: 8px; margin-right: 15px; margin-top: 8px; padding: 4px 9px; position: relative; height:32px; width:42px; margin:0;}
+.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:focus{color:#FFF;}
+.navbar-default .navbar-header > button .icon-bar{display:none !important}
+.navbar-toggle{padding:4px 0 !important;}
+.navbar-default .navbar-header > button:before{color:#888; content: "\f039"; font-family: fontawesome; font-size: 16px; font-weight: normal; left: 5px; top: 0;}
+.cs-course-search ul li input[type="submit"]{padding:12px 16px;}
+.cs-search-area form{width:100%;}
+.main-section .cs-ev-listing .cstime {width: 42px; margin-right:10px;}
+}
+
+/*============ Media 420Px Start ============ */
+@media (max-width: 767px) {
+#main-header.header_7 .navigation {margin:-50px 0 0 0;}
+.element-size-50,
+.element-size-33,
+.element-size-25,
+.element-size-75,
+.element-size-67,
+.page-content,
+.page-sidebar, .page-sidebar ~ .page-content,
+#respond form p { width: 100% !important; }
+.element-size-100 .col-md-12,
+.element-size-75 .col-md-12,
+.element-size-67 .col-md-12,
+.element-size-50 .col-md-12,
+.element-size-25 .col-md-12,
+.element-size-33 .col-md-12, .col-md-9, .section-content{ width: 100% !important; }
+/*============ Element Size 25, 33 ============ */
+.col-md-12 { width: 100%;}
+.col-md-3 { width: 50% !important;}
+.col-md-4 { width: 50%; }
+.breadcrumb-sec .pageinfo, .breadcrumb-sec .breadcrumb{width: 100%; display: block;}
+.breadcrumb-sec .pageinfo{padding: 15px 0 0 0;}
+.breadcrumb-sec {background-repeat: no-repeat!important; background-size: cover!important;}
+/*============ Cs Blog Star ============ */
+.cs-filter-menu li, .cs-filter-menu li a, .user-signup, .main-section .cs-ev-plain .ev-left, .main-section .cs-ev-timeline .ev-left, .main-section .event-list figure, 
+.main-section .event-list figure a, .main-section .event-list figure a,
+.main-section .cs-cell.dt-secnd, .main-section .cs-cell.dt-first { width: 100%; }
+.cs-blog.blog-medium figure, .cs-blog.blog-medium.lg-thumb figure, .main-section .cs-blog.has_bullet_br figure { margin: 0px 20px 10px 0; }
+.cs-blog.blog-medium.lg-thumb figure ~ .bloginfo { width: 100%; padding:20px 0;}
+.main-section .cs-share-post-section a { margin:0 5px 5px 0px; }
+.main-section #comment ul .children { padding-left: 0px!important; }
+.main-section #respond form p.comment-form-author, .main-section #respond form p.comment-form-email, .main-section .blog-medium figure ~ .bloginfo  { padding: 0px; }
+.main-section .cs-blog.blog-small.blog-medium .blog-bottom { width:auto; float: left; }
+.main-section .blog-small .blog-right { width: 47%; }
+.main-section .blog-medium.blog-small figure, .main-section .cs-blog.blog-medium.lg-thumb figure {width: 100%;}
+.main-section .blog-medium figure ~ .bloginfo{padding: 0px; float: left;}
+.main-section .cs-ev-modren figure{ width: 200px; display: inline-block; float: none;}
+/*============ Cs Filter Menu Star ============ */
+.cs-filter-menu li { margin: 0 0 5px 0;}
+/*============ Event Star ============ */
+.main-section .ev-location, .main-section .cs-ev-timeline .ev-location, .main-section .cs-blog .blog-bottom .blog-left { margin-bottom: 15px !important; }
+.main-section .event-list .ev-text { padding: 0 0 0 20px; overflow: inherit; }
+.main-section .event-list figure { margin: 0 0px 20px 0px; }
+.main-section .event-list.cs-ev-listing .ev-text { padding: 20px 0 0 20px; }
+.main-section .event-list .ev-btn, .main-section .cs-blog .blog-bottom .blog-left{ float: left; }
+.main-section .cs-blog.blog-lrg .blog-bottom .blog-left li { margin-right: 10px; }
+.main-section .event-list .ev-btn { margin-top: 0px; }
+.main-section .cs-ev-grid .ev-text { padding: 32px 30px 30px; }
+.main-section .cs-ev-timeline .ev-box { padding: 10px;}
+.main-section .cs-cell.dt-secnd, .main-section .cs-cell.dt-first { display: block; }
+.main-section .event-list figcaption .ev-btn { width: auto !important; }
+.main-section .event-list.cs-ev-listing .ev-text { padding: 20px; }
+.main-section .event-list.cs-ev-grid figure { margin-bottom: 0px; }
+.main-section .cs-ev-plain figure .cstime { padding-top: 18%; }
+.main-section .cs-ev-grid .cstime { bottom: -30px; }
+/*============ widget slider Star ============ */
+.main-section .widget_slider .follow-on { top: 0; width: 90%; margin-top: -15px; }
+/*============ Call to action Star ============ */
+.main-section .actions.actionsv3 .cell { text-align: center; display: block; }
+.main-section .actions.actionsv3 .cell.csactn-two { width: 100%;  float: left; }
+/*============ Cs Frame img thubnail Star ============ */
+.cs-image.cs-image-frame .img-thumbnail { float: none; display: inline-block; }
+.cs-image.cs-image-frame { text-align: center; }
+/* CS Tabs View */
+.cs-tabs.nav_position_top .nav-tabs li a { padding: 12px 24px; }
+/* CS Team View */
+.main-section .cs-team { margin: 0px; }
+/* CS Course Categories View */
+.main-section .cs_course_categories ul li { width: 50%; }
+/* Pr Classice Featured  View */
+.main-section .pr-classic.featured { margin-top: 0px;}
+/* Error Mess View */
+.error_mess { margin: 0 15px;}
+/* Page Not Founf View */
+body .page-not-found { width: 94%; padding: 0 15px 30px 15px; left: 0; }
+.cs-search-area input[type="text"], .cs-search-area input[type="search"] { width: 100%; }
+/* Testimonial slider View */
+.testimonial-slider { padding: 0 15px; }
+/* Twitter section View */
+.main-section .widget_slider .flexslider .slides > li { margin: 20px 0;}
+/* Cs Tabs nav position left View */
+.main-section .cs-tabs.nav_position_left .nav-tabs li:last-child { border-bottom: none !important; }
+/* Custom Btn View */
+.main-section .cs-list.list_v1 .text-section .custom-btn { position: relative !important; }
+/* Cs Signup View */
+#myModal .cs-signup { width: 100%; right: 0px; }
+/* Coureses View */
+.main-section .cs-list.list_v1 .text-section { min-height: 0px !important; }
+/* Button Style View */
+.main-section .heading-description .button_style { text-align: center; }
+/*============ Home Style ============ */
+.section-sidebar { width: 100% !important; padding: 0 20px 0 0; }
+/*============ Home Style ============ */
+.main-section .cs-search-area form{width: 100%!important;}
+/*============ Footer Style ============ */
+.footer-mid-sec .col-md-6, #bottom-sec #copyright p, #copyright .footer-nav { width: 100%; }
+.footer-mid-sec .user-signup { width: 65%; }
+.footer-mid-sec .news-title { font-size: 12px; }
+.footer-mid-sec .user-signup label { width: 69%; }
+.footer-mid-sec .user-signup input[type="text"] { font-size: 11px; }
+#copyright { text-align: center; }
+#bottom-sec #copyright p, #copyright .footer-nav, #copyright .footer-nav ul li { display: inline-block; float: none; }
+/*============ Footer Style ============ */
+.course-detail .content_tag a { font-size: 11px; padding: 0 4px 1px; }
+.section-content .cs_assigment_tabs ul li { margin-bottom: 2px; }
+.main-section .register-page .cs-signup { padding: 30px 10px; }
+.main-section .register-page .cs-signup:before { bottom: -10px; right: 50%; padding: 0 0 0 4px; top: auto; }
+.main-section .register-page .cs-signup:after { background: none; border-bottom: 1px solid #c9c9c9; bottom: 0; right: 0; width: 100%; }
+.main-section .courses .cr-flat a.custom-btn, .main-section .event-list .ev-location{ float: left; }
+.main-section .page-content ~ .page-sidebar{ padding-left: 15px; }
+/*============ Event ============ */
+.event-list .ev-inner:before { width: 24px; }
+.main-section .cs-ev-timeline { padding-left: 35px; }
+.main-section .cs-post-sharebtn .cs-cell { float: left; margin: 0 0 10px 0; }
+.main-section .cs-post-sharebtn small { float: left; }
+/*============ Event ============ */
+.liststyle { margin: 0 0 0 10px; }
+.main-section .page-content .section-content { width: 100%; }
+.col-md-3 { width: 50%; }
+.main-section .col-md-12, .main-section .section-content{ width: 100%;}
+body .wrapper.wrapper_boxed{width: 100%!important;}
+/*============ Header Style ============ */
+.main-head { position: static !important; }
+.top-strip, .logo, .breadcrumb-sec  .page-title-align-left { text-align: center; }
+.top-strip .strip-info, .top-strip .top-nav ul li,
+.top-strip .social-media a, .top-strip  .strip-listing, .top-strip .strip-listing > li { display: inline-block; float: none; }
+.top-nav, .top-strip .social-media, .logo, .head-right { width: 100%; padding-bottom:30px; }
+.navbar-header .navbar-toggle { float: left; }
+.head-right .cs-login-sec { padding: 12px 25px 30px 0; }
+.cs-login-sec .cs-signup { width: 450px; right: -137px; z-index: 9999; }
+.head-right .cs-login-sec .cs-signup { right: 0px; width: 450px; z-index: 9999; }
+.breadcrumb-sec  .absolute-sec { padding: 0 10px; }
+.top-strip .strip-listing > li { border: none; }
+.cs-right-sec .strip-listing > li:last-child { border-right: none; }
+.cs-right-sec .strip-listing { margin: 0;  }
+.top-strip .cs-right-sec { position: relative; width: 100%; z-index: 9999; }
+.nav{ padding-left:15px; padding-right:15px;}
+.navigation, .navigation ul li{ width:100%; position:relative; background:none; float:none;}
+.navigation ul li ul{ float:left; border:0 !important; box-shadow:none; background:none !important;}
+.navbar-nav .sub-menu .dropdown-menu li a{ display:inline-block;}
+.mega-grid .dropdown-menu > li:hover,.sub-menu .dropdown-menu li:hover {background-color: transparent !important;}
+.sub-menu .dropdown-menu{ visibility:visible !important; opacity:1 !important; box-shadow:none !important; margin:0; padding:0 0 0 30px !important; }
+.navbar-nav > li > .dropdown-menu, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu, .sub-menu .dropdown-menu, .mega-grid{ width:100%; position:relative !important; background:none !important; visibility:visible !important; opacity:1 !important; display:block !important; left:0; box-shadow:none; border:0; float:left;}
+.mega-grid ul.dropdown-menu, .main-head .navigation ul.mega-grid > li{ width:100%; float:left;}
+.navigation .navbar-collapse.in {overflow-y: auto; overflow-x: hidden; border-top: none !important; border-bottom:1px solid #ccc; margin:0 0 20px; }
+.navigation .navbar-collapse{position: initial;}
+.nicescroll-rails{ display:none;}
+.navbar-toggle.addclose {position: absolute;right: 30px;top: 10px;z-index: 110;padding: 3px 10px 4px 10px;}
+.navbar-toggle.addclose .icon-bar {display: none;}.navbar-toggle.addclose:before {content: "\f00d";font-family: FontAwesome;color: #777;font-size: 16px;}
+li.parentIcon > a:after {display: none;}
+body:hover .nicescroll-rails{ display:block;}
+#main-header .cs-search.cs-searchv2{ top:44px; right:auto; left: 50%; margin: 0 0 0 -120px;}
+#main-header .head-right .cs-search.cs-searchv2{ top:44px; right:auto; left: 50%; margin: 0 0 0 0px;}
+.navbar-default .navbar-toggle, .navbar-header{ display:block !important; }
+.navbar-nav > li > .dropdown-menu > li, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu > li, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li{ padding:0 !important;}
+.inner-nav{ position:relative;}
+.navbar-default{ min-height:0; float:left; width:60%; }
+.navbar-toggle { margin: 4px 15px;}
+.menuopen.navigation .navbar-collapse.collapse {display: block !important;}
+/*============ Header Style ============ */
+/*============	Course Start ============ */
+/* Big View */
+.main-section .cs-big-view figure { width: 100%; margin: 0px 0px 15px 0px; }
+.main-section .cs-big-view figure ~ .text-section, .main-section .cs-big-view .text-section { padding: 0px; }
+.main-section .cs-big-view .text-section { float: left; width: 100%; }
+/* Clasic View */
+.main-section .cs-list.list_v3 figure { margin: 0px 0px 15px 0px; float: left; width: 100%; }
+.main-section .cs-list.list_v3 figure ~ .text-section, .main-section .cs-list.list_v3 .text-section { margin: 0px; }
+/* Flat View */
+.main-section .cr-flat, .main-section .cs-flat-view .text-section, .main-section .cr-flat figure { width: 100%; }
+.main-section .cr-flat { margin: 0px 0px 15px 0px; }
+/* Modren View */
+.main-section article.cs-modren-view figure { float: left; width: 100%; margin: 0 0 15px 0; }
+.main-section article.cs-modren-view figure ~ .text-section, .main-section article.cs-modren-view .text-section { float: left; width: 100%; }
+.main-section article.cs-modren-view .cs-cat-list { width: 65%; }
+.main-section .cs-cat-list li { margin: 0px 20px 10px 0px; }
+/* TimeLine View */
+.main-section .cs-list.list_v4 .custom-btn { margin: 0px; float: left; }
+.main-section .cs-list.list_v4 .text-section .seideleft { width: 100%; }
+/* List View */
+.main-section .cs-list-view figure { width: 100%; margin: 0px 0 15px ; }
+.main-section .cs-list-view figure ~ .text-section, .main-section .cs-list-view .text-section { width: 100%; float: left; padding: 0; }
+.main-section .cs-list-view .cs-top-sec, .main-section .cs-list-view .left_position { width: 100%; }
+.main-section .cs-list-view .cs-cat-list { margin: 0; float: left; width: 100%; }
+.main-section .cs-list-view a.custom-btn { float: none; display: inline-block; }
+.main-section .left_position, .listoption li { margin-bottom: 10px; }
+.main-section .cs-list.list_v1 .left_position, .main-section .cs-list.list_v1 .listoption li{margin-right: 0px;}
+/*============ Tabgs ============*/
+.main-section .cs-tabs.nav_position_left .tab-content { width: 100%; }
+.main-section .cs-tabs.nav_position_left .nav-tabs { width: 100%; }
+.cs-tabs.nav_position_left .nav-tabs li{ border-right:1px solid #e2e2e2 !important;}
+/*============	Course Start ============ */
+/*============ Call to action Star ============ */
+.main-section .actions .cell.csactn, .main-section .actions .cell:nth-child(3), .main-section .actions .cell { width: 100%; }
+.main-section .actions .cell { display: block; margin-bottom: 10px; text-align: center; }
+.main-section .actions a.custom-btn { display: inline-block; float: none; }
+/*============	Course Detail Start ============ */
+.main-section .cs_assigment_tabs ul li { font-size: 11px; padding: 0 10px; }
+.main-section .cs_assigment_tabs ul li.active { padding: 5px 10px 2px; }
+.main-section .course-sidebar { width: 100%; }
+/*============	TypoGraphy Start ============ */
+.main-section .messagebox-v2.close_btn_style .close:after { display: none; }
+.main-section .messagebox-v2.close_btn_style .close { right: 0; }
+.main-section .messagebox-v2 i { margin-bottom: 8px; }
+.main-section .messagebox-v1 { padding-right: 25px; }
+.main-section .messagebox-v1 .custom-btn { position: static; }
+/*============	TypoGraphy Start ============ */
+.main-section .portfoliopage ul.image-grid li{width: 50%;}
+.main-section .filter_nav{height: auto;}
+/*============	Members Start ============ */
+.main-section .cs-member ul { margin: 0; }
+.main-section .cs-member ul li { width: 100%; }
+.main-section .page-sidebar{padding:0 15px 322550px 20px;}
+/*============	Partner's Start ============ */
+.cs-partner ul li.col-md-2 { width: 33.333%; }
+/*============	Partner's Start ============ */
+.page-template-default #underconstrucion { height: 100% !important; }
+/*============	course sidebar Start ============ */
+.page-content .section-content ~ .course-sidebar, .cs-header-add { width: 100% !important; }
+header .navigation ul ul > li > .dropdown-menu, .navigation ul li > .dropdown-menu {
+	-webkit-transform: translateY(0px) scale(1) !important;
+	   -moz-transform: translateY(0px) scale(1) !important;
+	    -ms-transform: translateY(0px) scale(1) !important;
+	     -o-transform: translateY(0px) scale(1) !important;
+	        transform: translateY(0px) scale(1) !important;
+}
+.tp-bullets{z-index: 996!important;}
+.main-section .cs-course-search ul li{width: 50%; margin: 0 0 10px 0;}
+.main-section  .cs-course-search ul li:nth-child(4){width: 50%;}
+.main-section article.cs-services.classic figure i:after{display: none;}
+.blog_thumb .bloginfo h2{font-size: 12px;}
+.main-section .cs-post-sharebtn .cs-cell { width: 100%; float: left; margin: 0 0 10px 0;}
+/*============	Menue Button Start ============ */
+.navbar-default .navbar-header > button { background-color: transparent; background-image: none; border: 1px solid #ddd; border-radius: 4px; float:left; margin-bottom: 8px; margin-right: 15px; margin-top: 8px; padding: 4px 9px; position: relative;height:32px;width:42px;margin:0;}
+.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-header > button:hover,
+.navbar-default .navbar-header > button:focus{color:#FFF;background:#ddd;}
+.navbar-default .navbar-header > button .icon-bar{display:none !important}
+.navbar-toggle{padding:4px 0 !important;}
+.navbar-default .navbar-header > button:before{color:#888; content: "\f039"; font-family: fontawesome; font-size: 16px;font-weight: normal; left: 5px; top: 0;}
+.navbar-default{width:100%;}
+.login_nav { bottom: 0px; float: right; position: absolute; right: 0;}
+.navbar.navbar-default.navigation.menuopen ~ .login_nav {position:initial;}
+.cs-tablerow .breadcrumbs ul { float: none; text-align: center;}
+.cs-tablerow .breadcrumb ul li{display:inline-block;float:inherit;}
+.cs-search-area form{width:100%;}
+.portfolio, .portfoliopage, .fourcolumn, .portfoliodetail{ padding:0 15px;}
+.twitter-section  .widget_slider .flex-direction-nav {top: 5px;}
+.main-section .event-list .ev-text {padding-bottom:15px;}
+}
+/*============ Media 300Px Star ============ */
+@media screen and (max-width: 480px) {
+.page-content { padding: 0; }
+.element-size-50,
+.element-size-25,
+.element-size-75,
+.element-size-67,
+.element-size-33,
+.page-content,
+.page-sidebar { width: 100% !important; } 
+.element-size-100 .col-md-12,
+.element-size-75 .col-md-12,
+.element-size-67 .col-md-12,
+.element-size-50 .col-md-12,
+.element-size-25 .col-md-12,
+.element-size-33 .col-md-12, .col-md-3, .col-md-9  { width: 100% !important; }
+.col-md-4 { width: 100%; } 
+.col-md-12, .main-section .upload-file li .inner-sec, .main-section .upload-file li label { width: 100%; }
+/*============ Cs Blog Star ============ */
+.blog-medium figure, .cs-blog.blog-medium.lg-thumb figure, .main-section .event-list.cs-ev-default figure, .main-section .cs-ev-listing figure, .main-section .cs-ev-plain figure, main-section .cs-ev-elite figure,
+.main-section .event-list figure, .cs-cell figure.detailpost { width: 100%; margin-bottom: 20px!important; }
+.blog-lrg .blog-right, .main-section .cs-blog.blog-medium figure ~ .bloginfo, .main-section .cs-ev-plain .ev-left, .cs-blog.blog-small.blog-medium .blog-left, 
+.main-section .cs-blog .blog-bottom .blog-left, .main-section .event-list .ev-text, .main-section .cs-ev-elite .event-list .ev-text, .main-section .cs-ev-timeline .cstime, 
+.main-section .cs-blog figure .blog-medium figure, .cs-blog.blog-medium.lg-thumb figure, .main-section .event-list.cs-ev-default figure, 
+.main-section .cs-ev-listing figure, .main-section .cs-ev-plain figure, .main-section .cs-ev-elite figure, 
+.main-section .event-list figure, .cs-cell figure.detailpost, .main-section .cs-blog.blog-medium figure, .main-section .cs-blog.blog-medium .blog-bottom { width: 100%; }
+.main-section .cs-blog.blog-medium figure ~ .bloginfo, .cs-blog.blog-small.blog-medium .blog-left, .main-section .event-list .ev-text, 
+.main-section .cs-ev-elite .event-list .ev-text, .main-section .cs-blog .blog-bottom .blog-left,  .cs-blog.blog-lrg .blog-bottom .blog-left, .main-section .cs-blog.blog-medium .blog-bottom { float: left; }
+.main-section .cs-post-sharebtn .cs-cell img, .main-section .cs-post-sharebtn .cs-cell.right-btn img, .main-section .cs-blog .blog-bottom .blog-left,  
+.cs-blog.blog-lrg .blog-bottom .blog-left,.cs-blog.blog-small.blog-medium .blog-left { margin-bottom: 15px; }
+.pull-right.cs-btnshowall { margin: 0 10px 10px 0; }
+/* Blog Clean View */
+.main-section .cs-blog.blog-clean figure{ width: 100%; margin-bottom: 15px; }
+.main-section .blog-clean figure ~ .bloginfo { padding: 0px; }
+/* Blog Blog-lrg View */
+.main-section .cs-blog.blog-lrg .bloginfo { padding: 0 0 0 55px; }
+/*============ Cs Filter Menu Star ============ */
+.main-section .filter-nav { padding: 0px; }
+/*============ Event Star ============ */
+.main-section .ev-location { margin-bottom: 15px!important; }
+.main-section .event-list.cs-ev-grid figure { margin-bottom: 0px !important; }
+.main-section .cs-ev-grid .ev-text { padding: 32px 30px 30px; }
+.main-section .cs-ev-timeline .cstime { height: 80px; padding-top: 15px; }
+.main-section .cs-ev-timeline .ev-box { padding: 10px; }
+.main-section .event-list ul.ev-option li, .main-section .cs-blog.has_bullet_br.blog-medium .blog-left li { margin-bottom: 5px; }
+.main-section .event-list .ev-location { width: 100%; }
+.main-section .cs-ev-plain figure .cstime { padding-top: 15%; }
+/*============ Services classic Star ============ */
+.main-section article.cs-services.classic.img-medum figure i { display: inline-block; width: 104px; }
+.main-section article.cs-services.rectangler.img-medum figure img { margin-bottom: 15px;}
+/* CS Team View */
+.main-section .cs-team { margin: 0px auto;}
+/* CS Course Categories View */
+.main-section .cs_course_categories ul li { width: 100%; }
+/* Cs Search View */
+.cs-search-area input[type="text"], .cs-search-area input[type="search"] { width: 100%;}
+/* Cs partner View */
+.main-section .cs-partner figure a[title] { font-size: 10px; }
+.main-section .cs-partner figure a[title]:after { top: -21px !important;  width: 90%; left: 5%; }
+/* Twitter section View */
+.main-section .widget_slider .flexslider { width: 73%; }
+.main-section .twitter-section .widget_slider .flexslider{width: 100%; float: none;}
+/* Comment section View */
+.main-section #comment ul li figure, #comment ul li figure img { display: inline-block; }
+.main-section #comment .text-box { margin: 0px; float: left;}
+.main-section #comment .text-box time { padding: 0 5px; }
+/* Post option panel View */
+.main-section .post-option-panel .post-options { width: 100%; }
+.main-section .post-option-panel .cs-thumb { margin-bottom: 15px;}
+.main-section .blog-editor .rich_editor_text, .main-section .blog-editor .content_tag, .main-section .blog-editor .cs-share-post-section { padding: 0px; }
+/* Cs Signup View */
+#myModal .cs-signup .header-element, #myModal .cs-signup .footer-element, #myModal .cs-signup { width: 100%;}
+#myModal .cs-signup .footer-element { padding: 0px; }
+#myModal .cs-signup { right: 0px; }
+.col-md-3 { width: 100%; }
+#bottom-sec .footer-mid-sec .social-media a{margin: 0 0 0 5px;}
+/*============ Header Style ============ */
+.cs-login-sec .cs-signup { right: -60px; width: 300px; }
+.head-right .cs-login-sec .cs-signup {right: 0px; width: 300px; }
+.cs-login-sec .cs-signup .header-element, .cs-login-sec .cs-signup .footer-element { width: 100%; }
+.navigation ul li { width: 100%; }
+.main-head .navigation ul.mega-grid > li { display: inline; float: left; width: 100%; }
+.nav{ padding-left: 10px; padding-right :10px;}
+.navigation ul li{width:100%; position:relative; background:none;}
+.navigation ul li ul{margin:0 0 0 0px; float:left; border:0 !important; box-shadow:none; background:none !important;}
+.navbar-nav .sub-menu .dropdown-menu li a{display:inline-block;}
+.sub-menu .dropdown-menu{visibility:visible !important; opacity:1 !important; box-shadow:none !important; }
+.navbar-nav > li > .dropdown-menu, .navbar-nav > li > .dropdown-menu > li > .dropdown-menu, .sub-menu .dropdown-menu, .mega-grid{ width:100%; position:relative !important; background:none !important; visibility:visible !important; opacity:1 !important; display:block !important; left:0; box-shadow:none; border:0;}
+.mega-grid ul.dropdown-menu, .main-head .navigation ul.mega-grid > li{ width:100%; float:left;}
+.navigation .navbar-collapse.in { overflow-y: auto; max-height: inherit !important; overflow-x: hidden; border-bottom:1px solid #ccc; }
+.nicescroll-rails{ display:none; }
+body:hover .nicescroll-rails{ display:block; }
+#main-header .cs-search.cs-searchv2{ left: 50%; margin: 0 0 0 -150px; right: auto; top: 44px;}
+#main-header .head-right .cs-search.cs-searchv2{ left: 50%; margin: 0 0 0 0px; right: auto; top: 44px;}
+.header-absolute .header_7 .main-head .cs-login-sec {padding: 0 20px 30px;}
+/*============ Header Style ============ */
+/*============	Course Start ============ */
+.main-section .cs-list.list_v3 figure { width: 100%; }
+.main-section .courses.cs-list.list_v3 a.custom-btn { margin: 15px 0 0 ; }
+.main-section article.cs-modren-view .cs-cat-list { width: 100%; margin: 0 0px 10px 0; }
+.main-section .cs-flat-view { padding: 15px; }
+/* TimeLine View */
+.main-section .cs-list.list_v4 figure { width: 100%; margin: 0 0 15px 0; }
+.main-section .cs-list.list_v4 figure ~ .text-section, .main-section .cs-list.list_v4 .text-section { float: left; width: 100%; padding: 0; }
+.main-section .cs-list.list_v4 .custom-btn { margin: 0; }
+.main-section .cs-list.list_v4 .text-section .seideleft { width: 100%; }
+/*============	Course Start ============ */
+.main-section .cs-course-search ul li{width: 100%; margin: 0 0 10px 0;}
+.main-section  .cs-course-search ul li:nth-child(4){width: 50%;}
+/*============	Course Detail Start ============ */
+.main-section .cs_assigment_tabs ul li { width: 100%; }
+.main-section .detailpost .course-detail .col-md-9, .main-section .detailpost .course-detail .col-md-3 { float: left; width: 100%; display: inline; }
+/*============	TypoGraphy Start ============ */
+.main-section .cs-tabs .nav-tabs li { width: 100%; margin: 0;}
+.main-section .cs-tabs .nav-tabs > li.active > a { padding: 12px 30px; } .main-section .cs-tabs .nav-tabs li.active { top: auto; }
+.main-section .cs-tabs .nav-tabs li.active:before { display: none; }
+.main-section .cs-tabs .nav-tabs li { border-bottom: none; }
+.main-section .cs-tabs.nav_position_left .tab-content { width: 100%; }
+.main-section .cs-tabs.nav_position_left .nav-tabs { width: 100%; }
+.cs-tabs.nav_position_left .nav-tabs li a { font-size: 13px; padding: 12px 0 12px 10px; }
+.main-section .cs-tabs .nav-tabs > li.active > a { padding: 12px 0 12px 10px; }
+.main-section .cs-tabs.nav_position_left .nav-tabs li.active:before { display: block; }
+.main-section article.cs-services.img-medum figure i { width: 100%; margin: 0 0 15px 0; }
+.main-section article.cs-services.img-medum figure i ~ figcaption{ padding: 0px 0px 0px 0px; float: left; width: 100%; }
+/*============	TypoGraphy Start ============ */
+/*============ Footer Style ============ */
+.footer-mid-sec .user-signup { padding: 14px 15px 0 0; width: 100%; }
+.footer-mid-sec .news-title { font-size: 14px; }
+.footer-mid-sec .user-signup label { width: 65%;}
+/*============ Footer Style ============ */
+.cons-text-wrapp { padding:  0 10px;}
+.page-template-default #underconstrucion .user-signup { padding:  0 5px;}
+.page-template-default #underconstrucion .user-signup label { width: 70%;}
+.page-template-default .user-signup input[type="submit"] { padding: 6px 15px 7px; margin-left: 5px;}
+.breadcrumb-sec .pageinfo h1 { font-size: 15px !important;}
+.course-detail span { font-size: 12px;}
+.content_tag { margin: 0 0 15px 0;}
+.main-section .table > tbody, .table thead { float: left;}
+.main-section .table tbody tr td { font-size: 12px; padding: 12px 10px;}
+.main-section .cs-list.list_v3 .cs-cat-list { width: 48%;}
+/*============ Event ============ */
+.main-section .about-author figure ~ .text { float: left; padding-left: 0; }
+.main-section .about-author figure ~ .text:before { border: none;}
+/*============ Event ============ */
+.main-section .button_style { float: none; display: inline-block; }
+.cs-post-sharebtn .cs-cell img { width: auto;}
+.main-section .cs-post-sharebtn span{font-size: 12px;}
+/*============	Menue Button Start ============ */
+.navbar-default .navbar-toggle:hover, 
+.navbar-default .navbar-toggle:focus{color:#FFF;}
+.navbar-default .navbar-header > button .icon-bar{display:none !important}
+.navbar-toggle{padding:4px 0 !important;}
+.navbar-default .navbar-header > button:before{color:#888; content: "\f039"; font-family: fontawesome; font-size: 16px; font-weight: normal; left: 5px; top: 0;}
+.cs-tablerow .breadcrumbs ul {float: none; text-align: center;}	
+ul.products li.product img{ width:94% !important;}
+#underconstrucion .main-digit-wrapp {margin-left:15px;}
+}
+/*============	Media 360Px Start ============ */
+@media screen and (max-width: 360px) {	
+.cs-search-area form label {right: 32px;}
+.page-not-found .cs-search-area form label {right:0;}
+.cs-search-area form {width: 100%;}
+.register-page .cs-signup form p input[type="button"]{ width:40% !important;}
+.footer-mid-sec .social-media span{padding-left: 10px;}
+}
